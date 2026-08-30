@@ -1,8 +1,8 @@
 # Nigeria Automotive Sales & Service Data Platform
 
-> An end-to-end data platform for an automotive dealership and repair business —
-> ingestion, transformation, testing, orchestration and BI delivery.
-> Built on the medallion architecture with Azure and dbt.
+An end-to-end data platform for an automotive dealership and repair business —
+ingestion, transformation, testing, orchestration and BI delivery.
+Built on the medallion architecture with Azure and dbt.
 
 **Author:** Dayo Fasokun — Data & Infrastructure Engineer
 **Stack:** Azure Data Factory · Azure Data Lake Storage · dbt · Python · PySpark · SQL · Power BI
@@ -26,12 +26,12 @@ seventeen years later, with the tools I use today.
 
 | # | Question | Served by | Status |
 |---|----------|-----------|--------|
-| 1 | Which service types generate the most gross profit after parts and labour? | `mart_service_profitability` | ✅ built |
-| 2 | Which mechanics complete work fastest without triggering rework? | `mart_technician_performance` | 🔜 planned |
-| 3 | Which parts will stock out in the next 14 days? | `mart_inventory_health` | 🔜 planned |
-| 4 | Which customers are overdue for service and likely to churn? | `mart_customer_retention` | 🔜 planned |
-| 5 | What is the true cost of a repair job, end to end? | `mart_job_costing` | 🔜 planned (`fct_work_orders` already computes per-job cost and profit) |
-| 6 | Which vehicle models generate the most repeat repairs? | `mart_vehicle_reliability` | 🔜 planned |
+| 1 | Which service types generate the most gross profit after parts and labour? | `mart_service_profitability` | Built |
+| 2 | Which mechanics complete work fastest without triggering rework? | `mart_technician_performance` | Planned |
+| 3 | Which parts will stock out in the next 14 days? | `mart_inventory_health` | Planned |
+| 4 | Which customers are overdue for service and likely to churn? | `mart_customer_retention` | Planned |
+| 5 | What is the true cost of a repair job, end to end? | `mart_job_costing` | Planned (`fct_work_orders` already computes per-job cost and profit) |
+| 6 | Which vehicle models generate the most repeat repairs? | `mart_vehicle_reliability` | Planned |
 
 ---
 
@@ -125,16 +125,16 @@ Python trust the Windows certificate store.
 
 | Component | Status |
 |-----------|--------|
-| Synthetic data generator (all 11 source tables) | ✅ |
-| Bronze ingestion (all 11 source tables) | ✅ |
-| Silver staging models | 🔶 4 of ~10 source tables (work orders, lines, technicians, parts) |
-| Gold marts | 🔶 2 of 8 (`fct_work_orders`, `mart_service_profitability`) |
-| dbt tests | ✅ 35/35 passing — schema tests, custom reconciliation test, dbt_utils checks |
-| CI (GitHub Actions, dbt build on every PR) | ✅ |
-| ADF orchestration | 🔜 not started |
-| Power BI dashboard | 🔜 not started |
-| Entity resolution (duplicate customers) | 🔜 not started |
-| Streaming telematics ingestion | 🔜 not started |
+| Synthetic data generator (all 11 source tables) | Done |
+| Bronze ingestion (all 11 source tables) | Done |
+| Silver staging models | Partial — 4 of ~10 source tables (work orders, lines, technicians, parts) |
+| Gold marts | Partial — 2 of 8 (`fct_work_orders`, `mart_service_profitability`) |
+| dbt tests | Done — 35/35 passing: schema tests, custom reconciliation test, dbt_utils checks |
+| CI (GitHub Actions, dbt build on every PR) | Done |
+| ADF orchestration | Not started |
+| Power BI dashboard | Not started |
+| Entity resolution (duplicate customers) | Not started |
+| Streaming telematics ingestion | Not started |
 
 The remaining marts, ADF pipeline definitions, and Power BI dashboard are
 tracked as "still to build" — see `docs/DATA_CATALOG.md` section 3 for the

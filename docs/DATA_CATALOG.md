@@ -4,9 +4,9 @@ Every data entity in the platform, what it contains, and exactly what is
 cleaned, fixed or transformed at each pipeline stage.
 
 **Legend**
-🥉 Bronze — raw landing. No cleaning. Immutable.
-🥈 Silver — cleaned, typed, deduplicated, conformed.
-🥇 Gold — business-ready, aggregated, metric-defined.
+Bronze — raw landing. No cleaning. Immutable.
+Silver — cleaned, typed, deduplicated, conformed.
+Gold — business-ready, aggregated, metric-defined.
 
 ---
 
@@ -34,9 +34,9 @@ The central fact of the business. One row per repair job.
 
 | Stage | Table | Grain | Notes |
 |-------|-------|-------|-------|
-| 🥉 | `bronze.dms_work_orders` | 1 row per CDC event | Includes inserts, updates, deletes |
-| 🥈 | `stg_dms__work_orders` | 1 row per work order (current state) | |
-| 🥇 | `fct_work_orders` | 1 row per work order | Enriched with costs, duration, profit |
+| Bronze | `bronze.dms_work_orders` | 1 row per CDC event | Includes inserts, updates, deletes |
+| Silver | `stg_dms__work_orders` | 1 row per work order (current state) | |
+| Gold | `fct_work_orders` | 1 row per work order | Enriched with costs, duration, profit |
 
 **Fields and cleaning rules**
 
@@ -182,8 +182,8 @@ to the correct owner at the time of service.
 | `hourly_rate_ngn` | Currency stripped; **rate effective-dated** — historical jobs costed at the rate in force at the time |
 | `is_active` | Derived from work order activity in last 90 days |
 
-> **Note:** no personal, medical or disciplinary data is ingested. The platform
-> stores only what is needed for scheduling and job costing.
+**Note:** no personal, medical or disciplinary data is ingested. The platform
+stores only what is needed for scheduling and job costing.
 
 ---
 
@@ -222,14 +222,14 @@ Small, version-controlled CSVs that live in Git, not in a source system.
 
 | Mart | Grain | Key metrics | Status |
 |------|-------|-------------|--------|
-| `fct_work_orders` | 1 per work order | parts_cost, labour_cost, revenue, gross_profit, cycle_time_hours | ✅ built |
-| `mart_service_profitability` | service_type × month | revenue, cost, margin_pct, job_count, avg_cycle_time | ✅ built |
-| `mart_technician_performance` | technician × month | jobs_completed, avg_cycle_time, rework_rate, billable_utilisation | 🔜 planned |
-| `mart_inventory_health` | part × day | qty_on_hand, days_cover, stockout_risk_flag, reorder_due | 🔜 planned |
-| `mart_customer_retention` | customer | last_service_date, days_since_service, lifetime_revenue, churn_risk_band | 🔜 planned |
-| `mart_vehicle_reliability` | make × model × year | repeat_repair_rate, avg_repairs_per_vehicle, top_fault_codes | 🔜 planned |
-| `mart_job_costing` | 1 per work order | fully-loaded cost incl. bay time, technician rate, parts, sublet | 🔜 planned (`fct_work_orders` already covers parts + labour cost) |
-| `mart_daily_operations` | day | jobs_opened, jobs_closed, bay_utilisation, revenue, wip_value | 🔜 planned |
+| `fct_work_orders` | 1 per work order | parts_cost, labour_cost, revenue, gross_profit, cycle_time_hours | Built |
+| `mart_service_profitability` | service_type × month | revenue, cost, margin_pct, job_count, avg_cycle_time | Built |
+| `mart_technician_performance` | technician × month | jobs_completed, avg_cycle_time, rework_rate, billable_utilisation | Planned |
+| `mart_inventory_health` | part × day | qty_on_hand, days_cover, stockout_risk_flag, reorder_due | Planned |
+| `mart_customer_retention` | customer | last_service_date, days_since_service, lifetime_revenue, churn_risk_band | Planned |
+| `mart_vehicle_reliability` | make × model × year | repeat_repair_rate, avg_repairs_per_vehicle, top_fault_codes | Planned |
+| `mart_job_costing` | 1 per work order | fully-loaded cost incl. bay time, technician rate, parts, sublet | Planned (`fct_work_orders` already covers parts + labour cost) |
+| `mart_daily_operations` | day | jobs_opened, jobs_closed, bay_utilisation, revenue, wip_value | Planned |
 
 `fct_work_orders` and `mart_service_profitability` are real, tested dbt
 models in `dbt_project/models/marts/`. Everything else in this section is
@@ -264,10 +264,10 @@ Rising quarantine counts are an early warning that something upstream changed.
 
 | Stage | What happens | What never happens |
 |-------|--------------|--------------------|
-| 🥉 **Bronze** | Land raw data exactly as received, partitioned by ingest date | No cleaning, no joins, no filtering, no type casting |
-| 🥈 **Silver** | Rename, cast types, normalise values, deduplicate, quarantine invalid rows | No joins across sources, no aggregation, no business logic |
-| 🔗 **Intermediate** | Join sources, apply business rules, entity resolution, enrichment | No presentation formatting |
-| 🥇 **Gold** | Aggregate, calculate metrics, apply agreed definitions, optimise for query | No source-system naming, no unresolved duplicates |
+| **Bronze** | Land raw data exactly as received, partitioned by ingest date | No cleaning, no joins, no filtering, no type casting |
+| **Silver** | Rename, cast types, normalise values, deduplicate, quarantine invalid rows | No joins across sources, no aggregation, no business logic |
+| **Intermediate** | Join sources, apply business rules, entity resolution, enrichment | No presentation formatting |
+| **Gold** | Aggregate, calculate metrics, apply agreed definitions, optimise for query | No source-system naming, no unresolved duplicates |
 
 ---
 
