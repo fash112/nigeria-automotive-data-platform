@@ -1,0 +1,19 @@
+# Local development profile. DuckDB reads the bronze layer written by
+# ingestion/land_to_bronze.py directly, so the whole pipeline runs on a
+# laptop or in CI with no cloud dependency.
+#
+# The production target points at the same warehouse via Azure Synapse
+# Serverless over the ADLS Gen2 bronze zone — model SQL is unchanged, only
+# the source binding differs.
+nigeria_automotive:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: ../data/warehouse.duckdb
+      threads: 4
+
+    ci:
+      type: duckdb
+      path: ../data/warehouse.duckdb
+      threads: 4

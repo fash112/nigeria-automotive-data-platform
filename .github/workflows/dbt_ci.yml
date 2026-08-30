@@ -1,0 +1,36 @@
+name: dbt build and test
+
+on:
+  pull_request:
+    paths:
+      - 'dbt_project/**'
+      - '.github/workflows/dbt_ci.yml'
+  push:
+    branches: [main]
+
+jobs:
+  dbt:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate synthetic source data
+        run: python data_generator/generate_all.py --months 3 --customers 200
+
+      - name: Load to bronze
+        run: python ingestion/land_to_bronze.py
+
+      - name: dbt build
+        working-directory: dbt_project
+        env:
+          DBT_PROFILES_DIR: .
+        run: |
+          dbt deps
+          dbt build --target ci

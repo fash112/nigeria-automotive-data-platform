@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.duckdb
+# data/raw/  <- sample data IS committed so the repo is explorable
+data/bronze/
+dbt_project/target/
+dbt_project/dbt_packages/
+dbt_project/logs/
+dbt_project/.user.yml
+.DS_Store
+.vscode/
+.idea/

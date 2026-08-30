@@ -1,0 +1,1298 @@
+customer_id,customer_name,customer_type,phone_primary,email,address_city,registration_date
+CUST00001,Tammy Young,insurance,0809 261 3013,theresacochran@example.com,Abuja,2020-11-14 22:36:02
+CUST00002,Tim Patton,fleet,0806 769 8610,vpham@example.org,Lagos State,06/12/2022
+CUST00003,Michael Reyes,INDIVIDUAL,+2348078608612,garrisonjeffrey@example.com,Abeokuta,2023-08-21 06:49:01
+CUST00004,Robert Perez,INDIVIDUAL,09154988206,kellerraymond@example.com,Abeokuta,02/04/2021
+CUST00005,Diana May,insurance,08029777514,n/a,Abuja,2024-01-23 16:34:32
+CUST00006,Sarah Rivera,corporate,0913 609 6655,wilsontara@example.org,Lagos State,2025-08-07 18:18:12
+CUST00007,Deborah Rodriguez,insurance,+2347024305904,yreed@example.com,Lagos State,2024-05-16 18:16:54
+CUST00008,Kayla Cruz,insurance,07071265269,jonathanfletcher@example.org,Ibadan,1738297678000
+CUST00009,Kimberly Ball,corporate,0909 222 8802,michaeljones@example.net,Abuja,1687366419000
+CUST00010,Mary Martinez,INDIVIDUAL,+2348073709724,william65@example.com,Abuja,1678096961000
+CUST00011,Cheryl Ortega,corporate,0917 504 1510,lbyrd@example.net,Lagos,1751497052000
+CUST00012,Joshua Smith,individual,+2348155076693,jason99@example.net,LAGOS,2023-05-28 03:02:22
+CUST00013,Jeremy Lewis,fleet,08038716269,yleon@example.net,Ibadan,08/02/2022
+CUST00014,Diane Beck,insurance,+2348066390708,clarence34@example.org,Abeokuta,2022-05-10 14:35:57
+CUST00015,Angel Riggs,fleet,+2349161053877,n/a,Abuja,13/04/2021
+CUST00016,Stephen Johnston,insurance,0908 223 8741,psnyder@example.org,LAGOS,16/09/2020
+CUST00017,Shannon Mcclure,corporate,09075181765,zrobinson@example.net,Abeokuta,2025-01-25 04:07:28
+CUST00018,Justin Lowery,insurance,0809 351 7915,n/a,Ibadan,1631305974000
+CUST01218,JUSTIN LOWERY,individual,0809 351 7915,n/a,LAGOS,18/07/2024
+CUST00019,John Schmidt,INDIVIDUAL,+2348016749089,stephanie79@example.net,Lagos State,15/12/2024
+CUST00020,Terry Griffin,individual,+2349047346970,juliawells@example.com,Lagos State,2022-10-07 01:55:34
+CUST00021,Destiny Strickland,individual,07056970882,rsims@example.com,Abuja,2021-04-27 15:58:22
+CUST00022,Cynthia Rogers,INDIVIDUAL,0801 273 5359,taylorjesse@example.net,Lagos State,1639750973000
+CUST00023,Amy Russell,fleet,0807 241 5804,nperry@example.com,LAGOS,1703282007000
+CUST00024,Lauren Dominguez,fleet,+2347031980274,,Ibadan,1753264724000
+CUST00025,Aaron Bell,insurance,0906 323 8057,acastaneda@example.net,Abeokuta,1745330297000
+CUST00026,Stephanie Freeman,insurance,08190585882,ryan06@example.com,Abuja,2024-02-07 02:25:52
+CUST00027,Sara Calhoun,fleet,+2349098787891,notanemail,Lagos,16/03/2025
+CUST00028,James Elliott,corporate,+2347068186525,millerroy@example.com,Abeokuta,2022-03-17 13:05:37
+CUST00029,James Lewis,insurance,+2349197302916,matthew64@example.com,Abuja,22/10/2022
+CUST00030,Julie Curry,individual,+2349146023439,cookemichael@example.net,Lag,31/03/2021
+CUST00031,Marissa Webster,fleet,0908 648 3924,jamessmith@example.org,Lagos,10/09/2022
+CUST00032,Michael Elliott,fleet,08075437844,stevenscott@example.com,Lag,02/02/2022
+CUST00033,Tracey Higgins,INDIVIDUAL,08184597009,tamirodriguez@example.org,Lagos,2023-04-26 03:36:48
+CUST00034,Susan Brooks,corporate,09084514489,charlesvaughn@example.net,Lagos State,2022-09-23 10:33:28
+CUST00035,Raymond Jefferson,insurance,0806 427 7800,hoganashlee@example.org,Lag,13/08/2023
+CUST00036,Mary Jones,fleet,0816 711 0154,alexander67@example.org,Abeokuta,07/05/2024
+CUST00037,Madison Poole,fleet,08140942292,ryangross@example.net,Lagos,1671232313000
+CUST00038,Tamara Hampton,fleet,08035708194,ugraham@example.net,Abeokuta,1670779502000
+CUST00039,David Michael,INDIVIDUAL,+2349190099897,nicole37@example.net,Lag,2023-11-20 09:53:09
+CUST00040,Johnny Nguyen,fleet,0811 189 8961,zlewis@example.com,Lagos,2023-07-23 07:53:55
+CUST00041,Kyle Beard,insurance,+2348095613415,,Lag,22/05/2025
+CUST00042,Travis Miller,corporate,08134744872,wfreeman@example.org,Lagos,2024-09-17 02:28:13
+CUST00043,Katherine Mcguire,INDIVIDUAL,0708 744 6468,phillipsrichard@example.org,LAGOS,1680925578000
+CUST00044,Jackie Tran,corporate,07043311626,ronald85@example.com,Ibadan,1720530340000
+CUST00045,David Martinez,corporate,+2348080138498,leslienewton@example.net,Lag,1648429806000
+CUST00046,Parker Hill,individual,0818 632 0155,notanemail,Abuja,2025-02-14 22:09:20
+CUST00047,Veronica Wall,INDIVIDUAL,08198641164,jeremy24@example.org,Ibadan,2025-03-16 10:23:40
+CUST00048,Angel Brown,fleet,0907 046 5583,heidi27@example.org,Lagos,2020-10-07 00:58:11
+CUST00049,Julie Alexander,fleet,08170939053,tammyking@example.com,Abuja,1629354055000
+CUST00050,Jennifer Jones,INDIVIDUAL,08067061186,hernandezlisa@example.com,Lag,2021-05-21 13:56:37
+CUST01250,Jennifer  Jones,individual,08067061186,hernandezlisa@example.com,Lag,1665352275000
+CUST00051,Phillip Obrien,fleet,+2349148736657,notanemail,Abeokuta,01/08/2022
+CUST00052,Jamie Kerr,insurance,+2349182475098,michelle64@example.net,Lagos,05/03/2021
+CUST00053,Natalie Meza,insurance,09143603811,notanemail,Ibadan,2022-06-06 12:11:03
+CUST00054,Deborah Miller,INDIVIDUAL,08187342561,glennjones@example.org,Lagos State,1708393223000
+CUST00055,Kirk Carter,corporate,0813 435 9060,keithcampbell@example.com,Lagos,08/04/2021
+CUST00056,Tammy French,fleet,0815 309 1709,,Lagos State,1651830714000
+CUST00057,Joshua Holland,fleet,09083832717,margaret10@example.org,Lag,12/04/2023
+CUST00058,Samantha Morse,insurance,09079067939,smartinez@example.com,Lagos State,01/02/2024
+CUST01258,SAMANTHA MORSE,individual,09079067939,smartinez@example.com,Ibadan,23/12/2022
+CUST00059,Katherine Miller,INDIVIDUAL,09016927215,prestonjessica@example.net,Lag,16/10/2022
+CUST00060,Darryl Craig,insurance,09026297533,keyemily@example.com,Abuja,2025-07-25 06:29:05
+CUST00061,Peter Ruiz,individual,08183932360,lmoon@example.net,LAGOS,2024-05-15 04:20:07
+CUST00062,Katherine Davis,fleet,07096934122,ricky51@example.org,Ibadan,1687260020000
+CUST00063,Jon Bates,INDIVIDUAL,09073380266,jcervantes@example.org,Lagos State,2024-07-13 00:40:24
+CUST00064,David Wilson,corporate,09128321839,ahancock@example.net,Lag,1744380381000
+CUST00065,Anthony Stone,insurance,0704 796 2005,wgarrett@example.org,Ibadan,1653371272000
+CUST00066,Carlos Roberts,fleet,0806 993 4576,omartinez@example.net,Ibadan,1662964946000
+CUST00067,Emily Smith,corporate,0813 532 0492,hdavis@example.com,LAGOS,29/08/2021
+CUST01267,EMILY SMITH,individual,0813 532 0492,hdavis@example.com,Abeokuta,21/12/2021
+CUST00068,Dr. Jordan Hill PhD,corporate,0909 907 8806,jsanchez@example.org,Lagos,2023-12-04 16:38:30
+CUST00069,Kyle Francis,corporate,09154559574,michellehill@example.com,Lagos,1689963587000
+CUST00070,Katie Hoover,INDIVIDUAL,+2347029348212,jessica99@example.net,Lagos,29/10/2024
+CUST00071,Jill Washington,individual,0815 544 0919,andrea86@example.com,Abuja,26/05/2023
+CUST00072,Veronica Allen,corporate,+2349161003997,xhall@example.com,Abuja,1610449105000
+CUST01272,Veronica  Allen,individual,+2349161003997,xhall@example.com,Abeokuta,1684138830000
+CUST00073,Michele Shepherd,individual,0814 053 2691,,Lagos State,2023-12-12 10:30:48
+CUST00074,Rebecca Pearson MD,fleet,+2347016172803,martineztammy@example.com,Lag,07/07/2021
+CUST00075,Jessica Fox,INDIVIDUAL,+2348081291936,jsmith@example.com,LAGOS,2021-12-22 12:24:07
+CUST01275,JESSICA FOX,individual,+2348081291936,jsmith@example.com,Ibadan,1618815578000
+CUST00076,Wayne Morgan,fleet,0807 679 5767,n/a,Lagos State,16/01/2024
+CUST00077,Sarah Phelps,individual,0904 860 5268,ofinley@example.net,Lagos State,23/10/2024
+CUST00078,Amanda Jones,corporate,+2348195756900,wendy16@example.org,Abuja,08/07/2021
+CUST00079,Michael Berger,insurance,09074855088,nguyenbrian@example.com,Lag,1699353261000
+CUST00080,David Jenkins,individual,0811 294 4682,georgemiller@example.com,Ibadan,1663376278000
+CUST00081,Mr. David Little MD,fleet,0709 139 0501,nolansteven@example.com,Abuja,2025-04-24 03:42:24
+CUST00082,Jeremy Reed,fleet,0813 939 4291,danielle64@example.com,Abeokuta,1679829191000
+CUST00083,James Webb,individual,08094322033,patrickhoward@example.com,Lag,05/03/2023
+CUST01283,James  Webb,individual,08094322033,patrickhoward@example.com,LAGOS,2020-11-06 02:19:48
+CUST00084,Mary Hill,INDIVIDUAL,0815 385 1498,lozanojulie@example.com,LAGOS,1660500958000
+CUST00085,Heather Fields,INDIVIDUAL,0818 124 9799,erica21@example.net,Lag,30/12/2020
+CUST00086,Jeremiah Riley,individual,08155461591,christopherphillips@example.net,LAGOS,2024-03-12 20:33:05
+CUST00087,Carlos Ryan,individual,+2349084801233,n/a,Lag,1696938156000
+CUST00088,Susan Rivas,fleet,0814 518 6708,robin74@example.net,Lagos,1689652206000
+CUST00089,Julie Jones,insurance,0709 315 4172,michelleramsey@example.com,LAGOS,1748331490000
+CUST01289,JULIE JONES,individual,0709 315 4172,michelleramsey@example.com,Abeokuta,10/10/2023
+CUST00090,James Baker,fleet,09025659979,,Lagos State,2021-09-17 21:50:21
+CUST00091,Michael Chambers,insurance,+2349128208520,xcarson@example.org,Lagos State,1661495112000
+CUST00092,Manuel Hahn,insurance,0806 568 4858,n/a,Lagos State,15/06/2023
+CUST01292,Manuel  Hahn,individual,0806 568 4858,n/a,Lagos State,18/07/2022
+CUST00093,Madison Marshall,fleet,08058678896,debra12@example.org,Ibadan,1608721677000
+CUST00094,Johnathan Davis,corporate,09047028180,paulwatson@example.net,Lagos,1743735841000
+CUST00095,Patrick Moore,INDIVIDUAL,09112866549,fpena@example.net,LAGOS,1708285396000
+CUST00096,Diana Vaughn,INDIVIDUAL,0913 780 4191,scottsampson@example.com,Lag,2021-07-04 14:48:46
+CUST00097,Mrs. Stephanie Newman,INDIVIDUAL,+2349110380581,sandersjames@example.org,LAGOS,1720791288000
+CUST00098,Daniel Fowler,INDIVIDUAL,0802 475 4064,williamsmatthew@example.org,Lagos,19/06/2025
+CUST00099,Ronald Spencer,individual,+2348089034501,n/a,LAGOS,1756135034000
+CUST00100,Sergio Murphy,fleet,+2347018530615,kristinacarlson@example.com,Ibadan,1637572006000
+CUST00101,Ms. Rebecca Rodriguez,insurance,0913 973 5904,notanemail,Lag,18/11/2020
+CUST00102,Hunter Kramer,corporate,+2347018163847,alfred40@example.org,Abeokuta,2024-03-29 19:29:22
+CUST00103,Nichole Alvarez,INDIVIDUAL,09019863756,william17@example.net,Lagos,2022-07-19 06:20:31
+CUST00104,Amanda Logan,insurance,0918 359 9154,stephen00@example.com,Ibadan,29/01/2024
+CUST00105,Brian Joseph,individual,09167740376,fjones@example.com,Abuja,1638550682000
+CUST00106,Donald Schultz,INDIVIDUAL,+2349138859907,oscar98@example.com,Lagos State,09/07/2024
+CUST00107,Jessica Mcguire,fleet,0906 583 3185,n/a,Abeokuta,20/08/2021
+CUST00108,Marilyn Mack,individual,08073655158,,Lagos State,2022-06-28 23:40:37
+CUST00109,Stephen Gutierrez,insurance,0812 746 3800,notanemail,Lag,1720464207000
+CUST00110,Nicholas Edwards,individual,+2348199300492,elizabeth52@example.net,Lag,1726039340000
+CUST00111,Ronald Davis,corporate,0708 756 6910,garnernathan@example.org,LAGOS,2025-05-24 12:24:15
+CUST00112,Tyler Hoffman,insurance,09159333209,jenkinsmorgan@example.com,LAGOS,05/02/2021
+CUST00113,Lindsay Bell,individual,0919 235 2411,ericolson@example.org,Ibadan,1692712031000
+CUST00114,Holly Farmer,fleet,08113886030,lindsaybruce@example.net,Lag,25/05/2025
+CUST01314,HOLLY FARMER,individual,08113886030,lindsaybruce@example.net,Ibadan,1605780082000
+CUST00115,Mary Steele,individual,09019339597,whitejacqueline@example.com,Lagos,1689950010000
+CUST00116,Christopher Thomas,fleet,+2349066348963,vjones@example.net,Lag,1606962075000
+CUST00117,Joseph Bennett,INDIVIDUAL,09190023800,xpeterson@example.com,LAGOS,1685804891000
+CUST01317,Joseph  Bennett,individual,09190023800,xpeterson@example.com,Lagos State,1751091257000
+CUST00118,Sophia Moore,fleet,0907 518 4410,craigjoseph@example.net,LAGOS,1712549621000
+CUST00119,Mr. Donald Fischer,insurance,+2349024883373,reeddaniel@example.net,Lagos State,1729358507000
+CUST00120,Elizabeth Walker,individual,+2347039597483,smithkevin@example.org,Lagos,2021-10-30 07:21:49
+CUST00121,Donna Wilson,individual,+2348028419343,lburgess@example.org,Lagos,24/11/2023
+CUST00122,Crystal Hansen,INDIVIDUAL,+2348027339011,charles06@example.org,Ibadan,1722143364000
+CUST00123,Shannon Johnston,individual,+2348119673809,amckinney@example.com,Lagos State,2021-08-22 18:20:40
+CUST00124,Vincent Jackson,corporate,0705 201 8286,xcollier@example.org,Abeokuta,1715957948000
+CUST00125,Dana Chapman,INDIVIDUAL,07064362516,fosterkyle@example.com,Abuja,1658206819000
+CUST00126,Christopher Dixon,INDIVIDUAL,+2348121828592,schmidtjames@example.com,Lagos State,1692976639000
+CUST00127,Sabrina Briggs,INDIVIDUAL,+2347063118906,curtisscott@example.org,Lag,2021-12-17 21:11:33
+CUST01327,SABRINA BRIGGS,individual,+2347063118906,curtisscott@example.org,Ibadan,1618956513000
+CUST00128,Raymond Snyder,INDIVIDUAL,+2348056892354,kmaldonado@example.net,LAGOS,2023-05-31 02:32:53
+CUST00129,Lori Hernandez,individual,0803 328 6644,harrisoncrystal@example.com,LAGOS,1613811211000
+CUST00130,Benjamin Murray,insurance,+2349187774890,brownmarie@example.org,Abeokuta,1622967806000
+CUST00131,Katie Ford,individual,+2348194183695,colelisa@example.net,Lagos State,06/04/2022
+CUST00132,John Hernandez,individual,08189379016,hayeslisa@example.com,Lag,18/05/2021
+CUST00133,Carrie Wright,insurance,+2347059491122,,Ibadan,1716238864000
+CUST00134,Kelly Bishop MD,corporate,0918 439 9083,paul59@example.org,Abuja,1688560773000
+CUST00135,Brandon Gregory,individual,+2348191202508,johnathan92@example.com,Lagos State,2021-05-10 03:37:25
+CUST00136,Brenda Bailey,individual,0812 131 8464,tanderson@example.org,LAGOS,1681831777000
+CUST00137,Maria Murphy,fleet,0908 033 9290,elizabethcalderon@example.net,Lag,20/02/2025
+CUST00138,Michael Romero,fleet,08190246882,coxhenry@example.org,Lagos,27/07/2023
+CUST00139,Katelyn Perez,insurance,+2349048137561,ericphillips@example.org,Abuja,2024-12-24 06:29:02
+CUST00140,Sandy Stephenson,fleet,09199068509,stanleynancy@example.net,Abeokuta,1633907232000
+CUST00141,Brittany White,fleet,0808 986 5081,jenniferwilliams@example.com,Ibadan,06/09/2022
+CUST00142,Lisa Goodwin,insurance,0812 715 2188,pyoung@example.com,Lagos,1724629439000
+CUST00143,Cheyenne Gregory,INDIVIDUAL,09158563745,smurray@example.com,LAGOS,09/12/2024
+CUST00144,Tracy Montoya,INDIVIDUAL,09035770506,moniquewilliams@example.com,Lagos,27/10/2023
+CUST00145,Ashley Singleton,insurance,0707 814 0959,mitchellkathryn@example.com,Lagos,1719342231000
+CUST00146,Brittany Kim,INDIVIDUAL,0912 758 9104,lisawilkerson@example.org,LAGOS,1710105664000
+CUST00147,Jonathan Young,INDIVIDUAL,08068743530,brooksanthony@example.org,Lagos State,1688732841000
+CUST00148,Brenda Mitchell,corporate,0904 140 7343,ihorton@example.net,Abuja,2024-08-26 09:46:54
+CUST00149,Aaron Miller,corporate,+2349169135982,jason28@example.net,Ibadan,1740405207000
+CUST00150,Ricardo Young,individual,0803 680 2975,n/a,Abeokuta,12/09/2021
+CUST00151,Jason Bauer,individual,0912 376 9360,fbrown@example.net,Lag,2025-03-22 09:27:46
+CUST00152,Jose Allen,individual,0817 030 6604,n/a,LAGOS,19/11/2021
+CUST00153,Aaron Gomez,fleet,07065686520,qlopez@example.org,LAGOS,11/02/2025
+CUST00154,Andrea Fox,individual,08140137082,myerstheodore@example.net,Abuja,1702585285000
+CUST00155,Mrs. Alexis Kramer,corporate,08028468304,john19@example.net,Abeokuta,2023-06-29 00:46:47
+CUST00156,Harold Morgan,individual,0907 021 0270,,Lag,2022-02-24 21:59:11
+CUST00157,Melinda Pollard,fleet,0919 172 2503,zwelch@example.org,LAGOS,13/03/2021
+CUST00158,Terri Johnson,corporate,0806 634 8030,bradleygonzalez@example.org,Lagos,2023-05-07 10:55:29
+CUST00159,Kaylee Hays,insurance,0909 009 2958,notanemail,LAGOS,1744497715000
+CUST00160,Andrew Lucas,insurance,0901 020 9961,michael05@example.com,Lagos State,2021-09-20 15:55:27
+CUST00161,Jessica Ross,insurance,+2347080260907,notanemail,Ibadan,1716769926000
+CUST00162,Jasmine Beltran,fleet,09073100462,xholt@example.net,Lag,1670329913000
+CUST01362,JASMINE BELTRAN,individual,09073100462,xholt@example.net,Lag,2021-05-13 14:21:20
+CUST00163,Angela Morrison,INDIVIDUAL,0708 810 1741,amymorris@example.org,Lagos,14/06/2023
+CUST00164,Elizabeth Morrison,INDIVIDUAL,0807 236 0629,cjackson@example.com,Abuja,2024-06-19 02:47:57
+CUST01364,ELIZABETH MORRISON,individual,0807 236 0629,cjackson@example.com,Lagos State,2021-01-08 12:37:29
+CUST00165,Susan Mendez,individual,08137057085,yhill@example.org,Lag,20/04/2021
+CUST00166,Jennifer Palmer,INDIVIDUAL,+2349173538641,notanemail,Lag,08/01/2022
+CUST00167,Brenda Lawson,fleet,+2347098010774,ejohnson@example.org,Lagos State,12/10/2023
+CUST00168,Travis Johnson,corporate,09055504725,erikarush@example.com,Lag,1717898067000
+CUST00169,Laura Moreno,INDIVIDUAL,07066975380,redwards@example.org,Ibadan,17/08/2021
+CUST00170,Cody Holmes,corporate,0705 401 2664,greenjorge@example.com,Ibadan,1656327331000
+CUST00171,Donna Hendricks DDS,insurance,+2349057183837,n/a,Lagos State,14/09/2021
+CUST00172,Benjamin Thompson,fleet,0702 007 1854,zosborn@example.net,Ibadan,1684517711000
+CUST00173,Michelle Pierce,corporate,0702 916 3535,patricia22@example.com,Lagos,2024-12-27 13:58:23
+CUST01373,MICHELLE PIERCE,individual,0702 916 3535,patricia22@example.com,Lag,27/07/2022
+CUST00174,Curtis Taylor,corporate,09086134287,jjohnson@example.net,Lag,20/10/2023
+CUST00175,William Anderson,corporate,07087030477,jonesraymond@example.net,Lag,1727219709000
+CUST00176,Patricia Morrow,insurance,0701 347 8029,martinezlogan@example.org,Lagos State,1719518131000
+CUST00177,Joseph Anderson,fleet,08169897763,katrinaanderson@example.net,Abeokuta,18/02/2021
+CUST00178,Kelly Torres,corporate,+2348019939096,marcusfletcher@example.com,Lagos,1738023187000
+CUST00179,Sarah King,insurance,+2348199635939,david49@example.net,Ibadan,16/06/2021
+CUST00180,Caroline David,insurance,08095590648,georgeweber@example.net,LAGOS,2023-07-14 21:08:10
+CUST00181,Kristy Bryan,insurance,+2348041774192,notanemail,Lag,26/11/2020
+CUST00182,Travis Wise,individual,0912 741 7599,debra96@example.net,Lag,02/12/2020
+CUST00183,Mr. Dylan Frye MD,insurance,+2349080557676,eevans@example.net,Lagos,2021-03-04 01:50:06
+CUST00184,Jason Marshall,fleet,+2347070394554,catherine55@example.net,LAGOS,1691438725000
+CUST00185,Bianca Wood,individual,+2348027318510,floressteven@example.com,Abuja,2024-06-26 18:42:13
+CUST00186,Brent Roberts,INDIVIDUAL,08132099899,alin@example.org,Lag,1641601674000
+CUST00187,Taylor Griffith,insurance,07043635675,kathrynjimenez@example.net,Lag,2024-08-19 06:39:12
+CUST00188,Mr. Alexander Landry MD,INDIVIDUAL,09181602209,jasongomez@example.org,Ibadan,1674258639000
+CUST00189,Stephen Pena MD,insurance,+2349191220369,booneryan@example.com,Lagos,2023-10-10 08:45:10
+CUST00190,Holly Morales,insurance,0914 552 1514,michaelroberts@example.com,Lagos State,1734092686000
+CUST00191,Joshua Bryan,fleet,0909 417 6528,andersoncolin@example.com,Lagos State,2023-07-19 10:25:39
+CUST00192,Holly Thomas,INDIVIDUAL,+2349049920898,,Lagos State,28/12/2024
+CUST00193,Andrew Williams,fleet,0805 565 9873,notanemail,Abeokuta,30/06/2023
+CUST00194,Kelly Hernandez,fleet,0805 973 3063,markaustin@example.org,LAGOS,02/01/2024
+CUST00195,Nancy Evans MD,corporate,09043275109,n/a,Abuja,1735557959000
+CUST00196,Michelle Evans,INDIVIDUAL,0805 394 7691,richardsonemily@example.com,Abuja,2025-08-17 10:22:53
+CUST00197,Steven Wiggins,corporate,+2349172654864,carlsonjoseph@example.net,Lagos,2025-08-01 04:34:04
+CUST00198,Mikayla Silva,fleet,09171368457,alexandriagriffith@example.com,Lagos,2021-12-02 01:21:02
+CUST00199,Dana Armstrong,insurance,0919 781 3295,leescott@example.com,Lagos,2021-12-13 09:55:42
+CUST00200,Damon Shaw,corporate,+2348159093843,vsalas@example.net,Lagos,1615451128000
+CUST00201,Kelly Hoffman,corporate,+2348184252324,notanemail,Abuja,1727140756000
+CUST00202,Emily Thompson,corporate,09192012822,,Lag,13/03/2025
+CUST00203,Hector Ingram,corporate,08129363237,chelsea33@example.com,Ibadan,2025-05-29 20:21:07
+CUST01403,Hector  Ingram,individual,08129363237,chelsea33@example.com,Lag,15/03/2023
+CUST00204,William Evans,insurance,09171335966,janet75@example.com,LAGOS,18/08/2023
+CUST00205,Taylor Griffith,fleet,+2348131810655,david86@example.com,Ibadan,07/08/2023
+CUST00206,Regina Roberts,fleet,+2349181449442,stephanie15@example.com,Lagos State,2022-11-04 16:14:37
+CUST00207,Cindy Clayton,individual,0706 590 7088,sarah42@example.org,Ibadan,27/08/2025
+CUST00208,Anthony Stein,insurance,09187528776,danawilliams@example.com,Lagos State,2023-06-22 02:52:21
+CUST00209,Ashlee Townsend,INDIVIDUAL,09161028283,oconnelltiffany@example.org,Lagos,1707961010000
+CUST00210,Shirley Alvarez,corporate,07035606639,katelynmitchell@example.com,LAGOS,01/03/2021
+CUST00211,Ann Andrews,individual,0907 735 3073,gentrygregory@example.org,Abeokuta,2020-12-20 20:05:25
+CUST00212,Jennifer Simpson DVM,corporate,0915 362 7409,nancy04@example.net,Lag,2021-07-29 07:18:52
+CUST00213,Frances Gibson,fleet,0915 594 6354,ismall@example.net,Ibadan,23/08/2024
+CUST00214,Robert Rivera,fleet,0804 744 7604,twong@example.org,Abuja,12/10/2020
+CUST00215,Rachel Bradley,fleet,+2349052552488,gregorychase@example.com,Lag,2024-04-19 18:15:40
+CUST00216,Angie Caldwell,INDIVIDUAL,+2349160961690,tinawoods@example.org,Lag,2020-09-20 03:41:10
+CUST00217,David Molina,corporate,+2347056488123,kevin90@example.com,LAGOS,2023-09-21 00:32:32
+CUST00218,Amy Wilson,individual,0818 543 2781,erik84@example.net,Ibadan,1630247571000
+CUST00219,Teresa Richardson,INDIVIDUAL,0801 681 3620,jeffreyanderson@example.org,Abeokuta,2024-07-13 12:03:49
+CUST01419,Teresa  Richardson,individual,0801 681 3620,jeffreyanderson@example.org,Abeokuta,03/11/2023
+CUST00220,Joshua Ruiz,INDIVIDUAL,07028450513,kathleenbecker@example.net,Lagos State,1620705916000
+CUST00221,Kelsey Cox,fleet,0907 408 2055,brownamy@example.net,Lag,20/05/2022
+CUST00222,Brittany Murphy,individual,0709 755 0053,nwilson@example.net,LAGOS,15/08/2025
+CUST00223,Steven Griffin Jr.,INDIVIDUAL,+2348014877451,williambryant@example.org,Abeokuta,01/06/2025
+CUST00224,Robert Cummings,fleet,0705 004 9524,ascott@example.net,Lag,07/07/2022
+CUST00225,Amber Cooper,INDIVIDUAL,+2349180372842,weaverbrian@example.org,Abuja,1725449671000
+CUST00226,Jason Mack,corporate,+2348025119192,ybrooks@example.com,Abeokuta,15/11/2023
+CUST00227,Michael Stanley,INDIVIDUAL,+2347055246430,desireebailey@example.org,LAGOS,1742951849000
+CUST00228,Cameron Irwin,corporate,0906 740 5358,avilatiffany@example.com,Abeokuta,2025-04-17 11:10:56
+CUST00229,James Hall,individual,+2348074082804,rreed@example.org,Lag,15/08/2021
+CUST00230,Matthew Mendez,insurance,+2348154241559,allencarlos@example.net,Lagos,12/12/2020
+CUST00231,Michael Brennan,INDIVIDUAL,0801 833 8186,n/a,Lagos State,1664424346000
+CUST00232,Jennifer Young,fleet,0812 575 9274,karenparsons@example.org,Lag,1733996134000
+CUST00233,Cynthia Hendricks DDS,insurance,08074180488,joel28@example.org,Lag,06/03/2024
+CUST00234,Antonio Fry,INDIVIDUAL,0908 214 4402,conniesimmons@example.com,Abeokuta,1611317975000
+CUST00235,Teresa Powers,fleet,+2347080532309,heather62@example.com,Lagos,1699787885000
+CUST00236,Joshua Allen,INDIVIDUAL,09177845324,kevinzimmerman@example.com,LAGOS,24/02/2021
+CUST00237,Tracy Grant,insurance,0902 560 1471,paulscott@example.com,Lagos State,2021-05-02 14:18:50
+CUST00238,Sarah Davis,corporate,+2349017467311,n/a,Ibadan,2022-04-13 17:44:04
+CUST00239,James Jacobs,individual,+2348112921981,russojacob@example.net,Abeokuta,2025-06-01 05:18:26
+CUST00240,Daniel Meadows,insurance,+2347066867700,susan03@example.org,Lagos,2021-08-29 10:07:29
+CUST00241,Nicole Rocha,INDIVIDUAL,+2349014259382,randyallen@example.com,Abuja,1674715748000
+CUST00242,Joseph Howard,corporate,+2349060259293,michael77@example.org,Lagos State,2024-08-27 14:08:18
+CUST00243,Erica Harris,individual,0912 784 9589,robert93@example.net,LAGOS,1637903453000
+CUST00244,Juan Silva,fleet,08039888974,mphillips@example.com,Lagos State,1660474177000
+CUST00245,Roy Porter,INDIVIDUAL,+2349081394920,jonathan77@example.com,Lagos State,03/02/2022
+CUST00246,Heather Taylor,corporate,08025145751,iwhite@example.net,Ibadan,2021-02-28 09:46:28
+CUST00247,Sara Jones,individual,0702 354 2127,notanemail,LAGOS,1611755606000
+CUST01447,Sara  Jones,individual,0702 354 2127,notanemail,Ibadan,2020-09-18 18:24:28
+CUST00248,Ryan Hall,INDIVIDUAL,0702 880 8678,albertwagner@example.com,Abuja,1614959577000
+CUST00249,Mary Jensen,INDIVIDUAL,0919 025 1151,bhopkins@example.org,Lag,2025-03-10 11:02:03
+CUST00250,Alexandra Moreno,individual,+2349139667854,amanda40@example.net,Ibadan,1714310137000
+CUST00251,Susan Rodriguez,corporate,0809 401 9376,warrenjohn@example.net,Lagos,20/02/2025
+CUST00252,Hector Norton,corporate,+2349080392240,watsonrichard@example.net,LAGOS,24/09/2022
+CUST00253,Courtney Sutton DVM,fleet,09173554620,davisnicholas@example.net,Abuja,1726505669000
+CUST00254,Adam Jackson,corporate,0901 773 4153,pbruce@example.com,Ibadan,1750625004000
+CUST00255,Valerie Jacobson,individual,08044224936,hallrachel@example.net,Lagos State,25/06/2025
+CUST00256,Anthony Jones,insurance,+2348016917129,rachel90@example.org,Ibadan,2023-05-04 00:04:25
+CUST00257,Daniel Thomas,INDIVIDUAL,0808 886 4147,thickman@example.org,Lagos State,2025-06-17 02:10:00
+CUST00258,Ruben Price,INDIVIDUAL,08150693207,patrick21@example.net,Abeokuta,2023-08-09 11:32:55
+CUST00259,Jeffrey Roberson,INDIVIDUAL,0904 256 0305,cassie99@example.com,Lagos State,2023-06-09 22:48:07
+CUST00260,Donald Riddle,fleet,+2348161091554,jperez@example.com,Lag,02/05/2024
+CUST00261,Kevin James,corporate,09072546007,lauren11@example.com,Abuja,22/12/2021
+CUST00262,Richard Moore,INDIVIDUAL,+2348151999682,,Lagos,23/12/2023
+CUST00263,Brian Smith,INDIVIDUAL,0918 773 1247,sean41@example.org,LAGOS,28/05/2021
+CUST00264,Jerry Peters,fleet,+2349142981324,fgarcia@example.com,Lag,17/05/2025
+CUST00265,Kyle Nguyen,fleet,09071851421,asmith@example.com,LAGOS,2021-05-20 02:02:55
+CUST00266,Kristin Haney,individual,0903 470 2473,ashleyjackson@example.com,Ibadan,2022-02-07 13:21:42
+CUST00267,Eric Snyder,corporate,07099686372,jacksonjoshua@example.com,LAGOS,1728713876000
+CUST00268,Heather Raymond,fleet,08011226946,mwheeler@example.com,Lagos,1627444200000
+CUST00269,Adam Foster,individual,0917 485 4563,vbrock@example.com,Ibadan,1688584093000
+CUST00270,Rodney Curtis,fleet,0708 105 7233,kevinmorrison@example.net,Lagos,1652644683000
+CUST00271,Christopher Sanders,insurance,09034060788,kelly79@example.org,LAGOS,2023-06-08 10:14:04
+CUST00272,Robert Long,corporate,+2349143878996,frederickjames@example.net,Lagos,11/03/2022
+CUST00273,Krista Benton,INDIVIDUAL,09085833309,nhahn@example.com,Lag,1676936248000
+CUST00274,Andrea Abbott,individual,0709 774 2922,ichambers@example.net,Lagos State,28/03/2023
+CUST00275,Matthew Espinoza,individual,0901 753 1619,,Lagos State,14/11/2023
+CUST00276,William Mendoza,individual,08185947990,sferguson@example.com,LAGOS,2025-04-14 23:31:11
+CUST00277,Warren Miles,fleet,+2349173820568,,Ibadan,1742857226000
+CUST00278,Suzanne Rodriguez,insurance,08052209421,dianekelly@example.net,LAGOS,1610623425000
+CUST00279,Maria Lucas,insurance,07050168264,tammy61@example.org,Abuja,02/07/2021
+CUST00280,Jorge Stone,INDIVIDUAL,+2349154524025,seanmyers@example.net,Abuja,1733075384000
+CUST00281,Zachary Webb,individual,09156420476,,Lag,1678037106000
+CUST00282,Vernon Wilson,corporate,+2349163244581,n/a,Lagos State,2021-11-13 02:27:43
+CUST00283,Grant Mueller,corporate,09067961650,gbailey@example.com,Lagos,1720181892000
+CUST00284,Eric Patrick,corporate,08019865900,johnsonmatthew@example.org,Abeokuta,1642851088000
+CUST00285,Natalie Black,fleet,+2349052503832,,Lagos State,10/05/2025
+CUST00286,Justin Mullen,corporate,07027784789,laurensoto@example.org,Ibadan,1714729232000
+CUST00287,Omar Ware,individual,07013524813,yvargas@example.org,Ibadan,1656387913000
+CUST00288,Paul Stokes,individual,+2349011656329,raylauren@example.net,Abeokuta,1648915672000
+CUST00289,Craig Wilson,corporate,0808 676 7229,orose@example.com,LAGOS,2023-12-20 09:26:20
+CUST00290,Laurie Bailey,fleet,08176185975,n/a,Lagos State,22/07/2024
+CUST00291,Robin Mccarthy,corporate,+2347058469365,samantha91@example.net,Ibadan,1634685353000
+CUST00292,David Wilson,fleet,+2347028185096,n/a,Abuja,1698941207000
+CUST00293,Kayla Barnes,insurance,+2348169085720,baileyhenderson@example.com,LAGOS,26/03/2025
+CUST00294,Maria Cooke,corporate,+2348074291599,tracytaylor@example.com,Lag,01/07/2024
+CUST00295,Sharon Crane,fleet,09087293208,ytaylor@example.net,Abuja,17/12/2024
+CUST00296,Jennifer Vasquez,INDIVIDUAL,0913 681 6708,fburns@example.net,Abeokuta,1607016730000
+CUST01496,JENNIFER VASQUEZ,individual,0913 681 6708,fburns@example.net,Abeokuta,2022-07-16 02:16:02
+CUST00297,Donald Medina,corporate,0904 910 1812,n/a,LAGOS,1643885875000
+CUST00298,Krystal Barton,corporate,08198404247,hdunn@example.net,Lagos,19/08/2021
+CUST00299,Joshua Ritter,corporate,+2349088147469,wolfscott@example.org,Ibadan,2024-04-11 20:13:36
+CUST00300,Ronald Potter,individual,0818 206 2301,nancy07@example.com,Lagos,2023-08-17 22:10:41
+CUST00301,Angie Grimes,insurance,0813 232 5574,rowejoel@example.net,Abeokuta,1692850772000
+CUST00302,Lisa Patterson,INDIVIDUAL,08167774765,n/a,Ibadan,1636108223000
+CUST00303,Robin Trujillo,corporate,09187206788,amanda98@example.org,Lagos State,1685609127000
+CUST00304,Eileen Armstrong,corporate,+2349130232642,taylorkaren@example.com,Lagos,02/03/2021
+CUST00305,Sharon Martinez DVM,fleet,0702 557 8562,n/a,Lagos State,2022-10-14 15:40:47
+CUST00306,Frank Wright,corporate,08173909453,kburns@example.net,Lag,2022-12-12 19:23:53
+CUST00307,Jaime Jones,INDIVIDUAL,+2347013031322,powellkara@example.net,Abeokuta,2023-10-20 14:20:11
+CUST00308,John Perkins,corporate,+2349131493051,simonstephen@example.net,LAGOS,16/09/2023
+CUST00309,Rebecca Sanders,individual,0809 596 3619,fsummers@example.com,Abeokuta,1685397475000
+CUST00310,Gail Lane,INDIVIDUAL,+2349089484162,rkramer@example.org,LAGOS,19/01/2021
+CUST00311,Richard Stevens,insurance,07087490324,nobleeric@example.com,LAGOS,01/09/2020
+CUST00312,Jessica Forbes DVM,corporate,+2349025294777,erik41@example.net,Ibadan,1695482659000
+CUST00313,Jacob Mckee,fleet,+2349092048427,brettgarrett@example.net,Lag,27/08/2022
+CUST00314,Brandon Davis,fleet,0819 247 4715,,Lagos,2022-06-24 00:13:53
+CUST00315,Casey Perez,corporate,0806 010 4292,n/a,Ibadan,2024-06-12 16:59:13
+CUST00316,Michael Montoya,INDIVIDUAL,+2349034931439,ebenson@example.org,Ibadan,2022-08-11 05:54:39
+CUST00317,Nicholas Garcia,insurance,+2348035111946,michael42@example.com,Lagos,17/10/2021
+CUST00318,Megan Jones,insurance,09028325379,bishopfrank@example.com,Ibadan,1655920659000
+CUST00319,Brittany Jenkins,corporate,0906 578 4972,fheath@example.org,LAGOS,2021-11-07 22:31:53
+CUST00320,Leah Cruz,insurance,08049203644,iedwards@example.org,Lag,2023-01-07 10:36:01
+CUST00321,Danielle Burke,insurance,0917 647 9831,kimberly04@example.org,Lagos,24/01/2025
+CUST00322,Chelsea Myers,corporate,08182751830,bowerslaura@example.org,Ibadan,2024-11-14 11:53:53
+CUST00323,David Little,individual,07097734330,ricetiffany@example.com,Lagos State,10/05/2023
+CUST00324,Scott Carroll,INDIVIDUAL,07068930964,amy27@example.org,LAGOS,1603209049000
+CUST00325,Alexis Lewis,insurance,0819 190 7952,fryraymond@example.com,LAGOS,2024-12-03 15:18:50
+CUST00326,Jessica Morales,insurance,+2347086514083,joshuacollins@example.net,Ibadan,2022-05-23 05:53:53
+CUST00327,Brittney Murphy,insurance,0814 883 3650,collinssamuel@example.org,Abeokuta,2021-02-25 20:10:32
+CUST00328,Tim Wilson,INDIVIDUAL,+2349017957216,parkerjudith@example.net,Abeokuta,2022-02-26 15:30:11
+CUST00329,Michael Miles,INDIVIDUAL,0814 322 6234,tylerreed@example.net,Ibadan,1668323700000
+CUST00330,Cameron Norman,corporate,+2349060354777,,Ibadan,1670878540000
+CUST00331,Bailey Yoder,individual,+2348171028216,lindsay48@example.org,Abuja,1669317631000
+CUST00332,Laura Jones,individual,0909 520 6855,ddixon@example.com,Abuja,1750901359000
+CUST00333,Christopher Ayala,fleet,+2349038434222,perezwilliam@example.org,Lag,1602027578000
+CUST00334,John Reyes,individual,+2349175140950,haroldhorne@example.org,Lagos,2025-05-13 14:58:53
+CUST00335,Michelle Rios,INDIVIDUAL,09012185246,marcbutler@example.net,Lagos State,20/05/2023
+CUST01535,MICHELLE RIOS,individual,09012185246,marcbutler@example.net,LAGOS,1671547876000
+CUST00336,Laura Wilson,fleet,+2348097241147,whitelinda@example.org,Lagos,1706355068000
+CUST00337,John Campbell,INDIVIDUAL,0705 990 8025,mark87@example.org,Lagos,20/10/2023
+CUST00338,Justin Torres,individual,0806 761 0401,,LAGOS,22/09/2022
+CUST01538,JUSTIN TORRES,individual,0806 761 0401,,Ibadan,1723263395000
+CUST00339,Wesley Cuevas,individual,09011246473,jessicapayne@example.org,Abuja,10/12/2021
+CUST00340,Jason Hall,individual,09019506414,cynthia05@example.org,Lagos,11/11/2023
+CUST00341,Monica Garcia,INDIVIDUAL,+2348128405182,robertwoodward@example.org,Abeokuta,1673847647000
+CUST00342,Thomas Merritt,INDIVIDUAL,09185603667,xhaynes@example.com,Lagos State,20/05/2021
+CUST00343,Kathy Walsh,INDIVIDUAL,0806 525 8766,kjones@example.org,Lagos,2024-05-12 09:04:09
+CUST00344,Bianca Carter,corporate,0708 913 1271,sara65@example.com,Lag,2024-07-06 14:28:03
+CUST00345,Benjamin Harris,insurance,0704 330 8414,moorefrank@example.com,Lag,1683026692000
+CUST01545,BENJAMIN HARRIS,individual,0704 330 8414,moorefrank@example.com,Lag,2024-02-13 22:10:05
+CUST00346,Hunter Townsend,corporate,0919 146 0345,qparker@example.org,Lag,1623001195000
+CUST01546,HUNTER TOWNSEND,individual,0919 146 0345,qparker@example.org,LAGOS,01/01/2022
+CUST00347,Elizabeth Bush,insurance,09025132198,lewismelissa@example.org,Lagos,1623213800000
+CUST00348,Tracy Foster,corporate,+2347058465780,notanemail,Lag,1611872704000
+CUST00349,Debbie Ewing,individual,09019796799,cranemelissa@example.net,Lag,2025-05-05 02:22:55
+CUST01549,Debbie  Ewing,individual,09019796799,cranemelissa@example.net,Abuja,15/10/2022
+CUST00350,Brian Leon,corporate,0914 845 1741,smithmaria@example.org,Lagos State,1633817628000
+CUST00351,James Parks,individual,0918 216 2880,aguilarjonathan@example.org,Lag,2020-11-05 15:56:03
+CUST00352,Christina Brewer PhD,insurance,0803 085 4365,steinmaria@example.com,Abeokuta,1631619792000
+CUST00353,Joel Jackson,INDIVIDUAL,0705 163 0244,zunderwood@example.com,Lagos,2020-11-29 12:45:15
+CUST00354,Jeffery Gomez,individual,+2349025567455,joshuagriffin@example.org,Lag,1608033761000
+CUST00355,Lisa Holland,individual,08026031369,jjenkins@example.com,LAGOS,07/03/2021
+CUST00356,James Barnes,fleet,0917 942 0474,crystalpham@example.org,LAGOS,1701408669000
+CUST00357,Heather Stephens,corporate,08125845304,kcooper@example.net,Lag,1685059052000
+CUST01557,HEATHER STEPHENS,individual,08125845304,kcooper@example.net,Ibadan,1702987928000
+CUST00358,Alexander Harper,individual,+2347076591799,huangkimberly@example.org,Lagos State,1725345836000
+CUST00359,Pamela Key,individual,08044241100,craigsandoval@example.com,LAGOS,1741993823000
+CUST00360,Sylvia Brown,corporate,07011649277,n/a,LAGOS,2022-07-12 14:54:31
+CUST00361,Vickie Price,corporate,0708 420 4255,gregorywatkins@example.net,LAGOS,18/09/2023
+CUST00362,Alyssa Haynes,individual,08146407626,annalopez@example.com,Ibadan,1744254488000
+CUST00363,John Davis,corporate,0803 995 5391,carolynsmith@example.com,Lagos,01/09/2020
+CUST00364,Lucas Drake,individual,08153929586,jennifer50@example.org,Lag,2021-12-01 20:36:05
+CUST00365,Sylvia Schroeder,insurance,08193579731,susan56@example.net,Lagos State,2021-07-09 19:53:59
+CUST00366,Frank Daugherty,individual,09142900372,n/a,LAGOS,1715999986000
+CUST00367,Toni Banks,corporate,07054965270,jasminehoffman@example.net,Abuja,1694513651000
+CUST00368,Kevin Thompson,corporate,0703 754 0722,jessica42@example.org,Lagos State,2020-09-04 12:27:24
+CUST00369,Tiffany Myers,insurance,08047557512,,Lagos State,1751061516000
+CUST00370,Lance Mccall,corporate,0902 139 5409,,Lagos,1658025140000
+CUST00371,Ashley Crawford,fleet,09098911718,julie35@example.com,Abuja,02/02/2022
+CUST00372,Tracey Underwood,INDIVIDUAL,+2349053788744,sean43@example.org,Lagos,2021-03-28 13:32:25
+CUST00373,Richard Le,corporate,09124626086,n/a,Lag,26/01/2021
+CUST00374,Nicholas Costa,fleet,+2348137868462,ysnyder@example.com,Abuja,2025-04-22 08:53:35
+CUST00375,Ronald Kramer,fleet,08190973889,franciscojones@example.org,LAGOS,2023-03-04 04:22:31
+CUST00376,Dean Garcia,fleet,0816 318 3031,n/a,Abuja,2023-07-27 21:27:44
+CUST01576,Dean  Garcia,individual,0816 318 3031,n/a,Lagos State,1644394890000
+CUST00377,Candace Jones,INDIVIDUAL,09143534652,morgantricia@example.com,Lagos,2020-12-04 05:24:57
+CUST01577,CANDACE JONES,individual,09143534652,morgantricia@example.com,LAGOS,2024-05-01 00:11:38
+CUST00378,Carmen Preston,individual,+2348063765180,brianrivera@example.org,Ibadan,1708597850000
+CUST00379,Miranda Blair,corporate,07012925970,donna43@example.org,Abuja,2021-01-31 03:28:56
+CUST00380,Joshua Henry,individual,08126445384,wardronald@example.com,LAGOS,1727666195000
+CUST00381,Alexander Jackson,corporate,09076588957,tiffany71@example.com,LAGOS,16/01/2024
+CUST00382,Steven Baker,INDIVIDUAL,+2348046907428,ylopez@example.com,Lagos,1648814499000
+CUST00383,Dennis Marshall,insurance,+2348096876236,maryelliott@example.org,Lagos State,2021-06-26 09:03:56
+CUST00384,Gregg Weaver,insurance,+2349028419506,angelarandall@example.net,LAGOS,1711108314000
+CUST00385,Melissa Mayer,fleet,+2349112621269,thomasmiller@example.net,Lagos State,1608054982000
+CUST00386,Stephanie Mcbride,fleet,0818 592 0407,davidtodd@example.org,LAGOS,2022-01-31 07:06:18
+CUST00387,Rhonda Martinez,insurance,+2348013933043,n/a,Lag,1712377857000
+CUST00388,Michael Harris,fleet,08023439803,maryscott@example.net,Ibadan,1616721007000
+CUST01588,MICHAEL HARRIS,individual,08023439803,maryscott@example.net,LAGOS,1622090274000
+CUST00389,James Nguyen,insurance,09057621071,april09@example.net,Lag,1739006794000
+CUST00390,Ashley Hernandez,insurance,0911 378 5821,buckleyanna@example.org,Ibadan,2023-02-04 19:01:28
+CUST00391,Sheryl Humphrey,corporate,0807 606 5552,patrick79@example.net,Lagos,2024-09-07 15:18:28
+CUST01591,SHERYL HUMPHREY,individual,0807 606 5552,patrick79@example.net,Lagos,1608789737000
+CUST00392,Jamie Montgomery,INDIVIDUAL,+2349010091737,vwilliams@example.net,Abuja,2022-09-07 01:35:30
+CUST00393,John Adams,INDIVIDUAL,08053431355,notanemail,Abuja,2023-10-31 01:35:11
+CUST00394,Robert Turner,corporate,+2348119735027,megan13@example.org,Ibadan,2023-03-21 11:50:28
+CUST00395,Jessica Petersen,corporate,08128314232,jessica91@example.org,Abuja,1717301420000
+CUST00396,Rodney Figueroa,insurance,0813 338 1086,lori82@example.org,Abuja,23/04/2023
+CUST00397,Jennifer Deleon,fleet,+2349133535297,thompsonnancy@example.org,LAGOS,2021-02-24 23:24:51
+CUST00398,Jesus Hull,fleet,0916 255 9853,notanemail,Abuja,1652177145000
+CUST00399,Rodney Wagner,individual,+2349123973438,notanemail,LAGOS,18/09/2021
+CUST00400,Dana Burns,fleet,08095387542,ethompson@example.net,Lagos State,2025-05-08 20:49:02
+CUST00401,Christopher Kline,individual,+2348019099261,mitchellpaul@example.org,Abeokuta,2025-07-12 21:02:55
+CUST01601,Christopher  Kline,individual,+2348019099261,mitchellpaul@example.org,Lagos State,2022-06-26 19:08:49
+CUST00402,Maria Byrd,corporate,+2349076180344,denise80@example.net,Lagos,26/09/2020
+CUST00403,Carlos Thompson,corporate,0919 737 1655,walkercharlene@example.com,Lagos,2023-01-02 12:06:31
+CUST00404,James Bailey,corporate,08145047967,,LAGOS,1666374412000
+CUST01604,JAMES BAILEY,individual,08145047967,,Lagos,08/07/2022
+CUST00405,Michael Holloway,corporate,+2349192362000,asilva@example.net,Abeokuta,2023-11-05 14:59:20
+CUST00406,Linda Campbell,INDIVIDUAL,09031086112,,Lagos State,1627748111000
+CUST00407,Mr. Donald Nguyen,INDIVIDUAL,0914 560 3234,jose43@example.org,Lagos,2025-01-23 02:36:02
+CUST00408,Stephanie Trujillo,corporate,09175893962,,Lagos,06/02/2024
+CUST00409,Melanie Griffith,INDIVIDUAL,09174468586,,Abeokuta,22/11/2024
+CUST00410,Deanna Barnes MD,corporate,+2349025503345,aguilarwanda@example.org,Lagos State,1690847226000
+CUST00411,Courtney Nichols,corporate,09162013009,qknox@example.com,Lag,2024-12-23 02:31:58
+CUST00412,Christopher Sandoval,fleet,+2348169020960,kellyruiz@example.net,Ibadan,2022-11-11 12:52:30
+CUST00413,Kristin Gaines,insurance,0702 150 3440,destiny35@example.org,Lagos State,1681161597000
+CUST00414,Stephen Watson,insurance,0706 195 6500,steven17@example.org,Abeokuta,17/08/2025
+CUST00415,Lisa Kennedy,individual,+2348073922841,notanemail,Ibadan,1650951477000
+CUST00416,Sharon James,INDIVIDUAL,09193251648,n/a,LAGOS,2023-03-14 21:24:45
+CUST00417,Seth Hernandez,corporate,+2348015727862,notanemail,LAGOS,1652495730000
+CUST00418,William Orozco,individual,+2349144612921,tthomas@example.org,Lagos,08/05/2021
+CUST00419,Mr. Christopher Walters,individual,+2349153771998,hayesjason@example.org,Abuja,1753422715000
+CUST00420,Katherine Gallagher,INDIVIDUAL,09166316931,andersonryan@example.com,Ibadan,1707017736000
+CUST00421,John Smith,fleet,0702 417 8065,jessicadodson@example.com,Abuja,1741280919000
+CUST00422,Michael Sims,insurance,+2349045451818,jeremywiley@example.com,Ibadan,04/10/2021
+CUST01622,Michael  Sims,individual,+2349045451818,jeremywiley@example.com,LAGOS,1626299551000
+CUST00423,Kevin Jackson,fleet,09163917932,evanskelly@example.net,Abeokuta,2025-02-01 09:54:39
+CUST01623,Kevin  Jackson,individual,09163917932,evanskelly@example.net,Lag,13/02/2025
+CUST00424,Stephen Cowan,corporate,+2347055347617,wendy75@example.org,Abuja,1642993202000
+CUST00425,Tamara Powell,corporate,+2348028036919,jeffreymercer@example.org,Abuja,06/11/2020
+CUST00426,Caroline Richardson,INDIVIDUAL,0909 119 8924,n/a,Abuja,24/12/2020
+CUST00427,Martin Wise,INDIVIDUAL,09160185378,wheelerbrandon@example.org,Lagos,30/10/2020
+CUST00428,Brian Wallace,individual,0902 820 6610,kelleythomas@example.org,LAGOS,2022-05-30 09:12:23
+CUST00429,Lorraine Turner,fleet,08017734634,,Abeokuta,2021-07-09 15:59:54
+CUST00430,Debra Obrien,individual,+2349077796914,robertroach@example.net,Abeokuta,2021-08-30 17:19:15
+CUST00431,Richard Jimenez,corporate,+2349089731181,kimberlydecker@example.org,Ibadan,1694807933000
+CUST00432,Elizabeth Williams,individual,0804 471 6747,slozano@example.com,Lag,2023-06-23 01:59:16
+CUST00433,Adam Davis,INDIVIDUAL,08086807176,conleyelizabeth@example.org,Abeokuta,2021-06-05 19:26:46
+CUST00434,Angela Cummings,individual,09078891441,dawn74@example.com,Lagos State,2024-08-11 09:25:28
+CUST00435,Robert Sawyer,fleet,09111135982,michael56@example.net,Abeokuta,1629840975000
+CUST00436,Peter Williams,INDIVIDUAL,+2349060529679,elizabethjackson@example.com,Lagos State,20/05/2024
+CUST00437,Debra Quinn,fleet,0916 330 4911,notanemail,Ibadan,1698757620000
+CUST00438,Catherine Morales,fleet,0815 006 0760,,Lag,1721280194000
+CUST00439,James Jefferson,fleet,0814 505 0544,zbanks@example.org,LAGOS,2021-08-16 04:30:12
+CUST00440,Nicholas Jarvis,fleet,0801 762 0167,dalepruitt@example.com,Abeokuta,2025-07-02 13:53:32
+CUST00441,Catherine James,corporate,+2349049675382,cheryl27@example.com,Lagos State,1629045446000
+CUST01641,CATHERINE JAMES,individual,+2349049675382,cheryl27@example.com,Ibadan,2024-02-28 17:58:21
+CUST00442,Arthur Pena,corporate,0813 984 5082,busherica@example.net,Abeokuta,26/07/2025
+CUST00443,Courtney Sosa,individual,0809 826 3548,april91@example.com,Lagos State,2022-10-11 05:38:21
+CUST00444,Mr. Martin Hernandez,individual,0913 457 1018,smithsarah@example.net,LAGOS,26/08/2024
+CUST00445,Sheila Jones,insurance,+2348166434872,vflores@example.com,Lag,02/02/2021
+CUST00446,Krista Gray,insurance,0901 720 4398,christianwallace@example.net,Lagos,22/06/2024
+CUST00447,Jonathan Stewart,fleet,0912 608 1422,bmcgee@example.org,Lagos State,2024-02-04 09:02:11
+CUST00448,Justin Smith,insurance,08028436852,connersylvia@example.net,Lagos State,2023-04-03 06:51:54
+CUST00449,Kristina Pena,INDIVIDUAL,+2348020846331,xclements@example.org,Lag,1658568147000
+CUST01649,Kristina  Pena,individual,+2348020846331,xclements@example.org,LAGOS,2024-07-11 21:23:15
+CUST00450,Randall Greene,individual,+2349131264801,jennifer11@example.net,LAGOS,1658253810000
+CUST00451,Henry Schultz,corporate,+2349064142556,amy51@example.org,Lagos,2022-01-21 22:42:23
+CUST00452,Rodney Newton MD,insurance,+2348111889398,cheryl31@example.com,LAGOS,2022-06-30 17:54:50
+CUST00453,Richard Love,fleet,0804 036 8869,shermanbrandon@example.net,LAGOS,2021-09-16 18:17:02
+CUST00454,Joanna Barrett,fleet,09151086072,,Lag,13/12/2024
+CUST00455,Jonathan Moreno,INDIVIDUAL,+2349180345879,tranryan@example.net,Lag,08/10/2024
+CUST00456,Priscilla Kent,INDIVIDUAL,+2348032130289,,LAGOS,1754033534000
+CUST01656,PRISCILLA KENT,individual,+2348032130289,,Lagos,20/02/2022
+CUST00457,Betty Hughes,insurance,0706 035 7475,william66@example.net,Ibadan,2022-10-10 04:25:16
+CUST00458,Victor Waller,individual,07098848098,iballard@example.com,Lagos,1736250664000
+CUST00459,Michael Valencia,corporate,09061036796,jamesweber@example.com,Abeokuta,2023-08-07 17:21:01
+CUST00460,Brandi Page,insurance,+2347050415166,williambenson@example.com,Lag,1629707884000
+CUST00461,Kristina Aguilar,insurance,08066213840,icraig@example.com,Lagos,03/04/2024
+CUST00462,Kelly Johnson,fleet,07076805406,brianbrown@example.com,Abuja,1641933387000
+CUST00463,Miss Brianna Brown,insurance,+2348164996550,james80@example.com,Lagos State,2024-07-06 02:17:15
+CUST00464,Sean Stevenson,individual,09054372866,notanemail,Lagos,1658941078000
+CUST00465,Kristina Young,individual,0802 209 0691,notanemail,Lag,1675945036000
+CUST00466,Amber James,individual,+2348145450260,,Abuja,16/03/2024
+CUST00467,Vanessa Edwards,individual,0816 717 6108,,Abuja,2025-05-11 07:47:22
+CUST00468,Patrick Harris,insurance,+2348054112109,ogreer@example.net,Lag,1697443777000
+CUST00469,Kimberly Morrison,corporate,08134544318,kellythompson@example.net,Lag,18/04/2021
+CUST00470,Christopher Palmer,INDIVIDUAL,0906 660 4960,rwilliams@example.net,Lagos,2022-11-28 21:31:40
+CUST00471,Kevin Scott,insurance,07031393688,steven20@example.org,Lagos State,1685334361000
+CUST00472,Patricia Garrett,insurance,+2348092050405,tracy98@example.com,Lagos,1618292811000
+CUST00473,Emily Robinson,corporate,+2348074837853,n/a,Lagos,2022-03-24 04:40:08
+CUST00474,Rachel Moore,insurance,0811 165 8959,odavis@example.org,Abuja,1687818325000
+CUST00475,Edward Clements,insurance,0914 006 2746,wbarajas@example.net,Ibadan,1601092248000
+CUST00476,Gregory Allen,corporate,0706 809 5862,susanfleming@example.com,Lag,1701106552000
+CUST00477,Theresa Cruz,insurance,0902 995 2062,angel85@example.net,Lagos,2024-12-27 12:28:14
+CUST00478,Andrew Villanueva,INDIVIDUAL,+2348077856130,lukemiller@example.org,Lagos,01/02/2022
+CUST00479,Patricia Ferguson,insurance,08147333618,clarkcrystal@example.org,Abeokuta,08/04/2024
+CUST00480,Christine Poole,insurance,+2348020580463,elucas@example.net,Lagos State,2021-12-20 15:10:04
+CUST00481,Mitchell Johnson,individual,09052421060,brownlaura@example.net,Lagos,05/04/2021
+CUST00482,Crystal Green,insurance,09183698792,zhayes@example.com,Ibadan,1683663141000
+CUST00483,Michael Nichols,corporate,09185475000,avilabrenda@example.net,Lag,12/04/2021
+CUST00484,Jonathan Roberts,insurance,+2348070996586,catherine47@example.com,Ibadan,09/01/2024
+CUST00485,Amanda Moore,INDIVIDUAL,08170737878,notanemail,Lagos,14/07/2022
+CUST00486,James Salinas,individual,0818 350 9785,susan24@example.net,Lagos,2023-11-02 05:01:21
+CUST00487,Alexandra Baxter,INDIVIDUAL,+2349024356130,davidsmith@example.net,Lagos,06/01/2024
+CUST00488,Theresa Torres,individual,08055356673,jason82@example.org,Abeokuta,1648122793000
+CUST00489,Ruben Lee,insurance,0907 138 9561,emilybradley@example.org,LAGOS,01/05/2025
+CUST01689,RUBEN LEE,individual,0907 138 9561,emilybradley@example.org,Ibadan,02/08/2024
+CUST00490,Angel Powers,INDIVIDUAL,0917 481 8030,corey97@example.com,Abeokuta,1694597622000
+CUST00491,Matthew Garcia,insurance,+2348023898777,mcculloughlouis@example.com,Lag,1686868751000
+CUST00492,Elizabeth Silva,fleet,0909 173 7749,lindsey62@example.org,Lagos State,30/04/2023
+CUST00493,Daniel Singh,insurance,09027900864,xhill@example.org,Lag,1687732274000
+CUST00494,Julie Howard,INDIVIDUAL,0818 430 0459,tony12@example.net,Ibadan,1620733668000
+CUST00495,Shannon Taylor,INDIVIDUAL,0812 780 6897,josemercado@example.org,Ibadan,1618969044000
+CUST00496,Sarah Welch,insurance,+2348125489430,nhammond@example.org,Ibadan,1746796410000
+CUST00497,Steven Fernandez,insurance,+2349148376603,michaelwalker@example.net,Lagos,2023-02-20 00:51:55
+CUST00498,Jonathan Davis,INDIVIDUAL,07099959993,wayne39@example.net,Lag,1643250911000
+CUST00499,Brenda Moore,individual,07049613096,jillwebb@example.com,Lag,02/01/2021
+CUST00500,John Brown,corporate,0914 010 6027,jim38@example.com,LAGOS,1702910574000
+CUST00501,Jesse Williams,corporate,08199186817,dakota84@example.net,Lagos State,1669415992000
+CUST00502,Laura Bennett,INDIVIDUAL,09117221208,pdiaz@example.org,Ibadan,21/01/2025
+CUST00503,William Walker,INDIVIDUAL,0818 897 1743,wgomez@example.com,Abuja,1728144464000
+CUST00504,Adriana Macias,individual,08170238919,emartin@example.net,LAGOS,2023-01-19 09:04:11
+CUST00505,Cody Cox,insurance,07060626689,guerrerorobert@example.com,Lag,2021-08-17 01:32:28
+CUST00506,Mr. Daniel Martin,INDIVIDUAL,+2348110757677,cjohnson@example.org,Lagos,2025-07-16 16:38:56
+CUST00507,Brandy Hunt,fleet,0911 682 5701,brianscott@example.org,Lagos State,1737417301000
+CUST00508,Linda Elliott,INDIVIDUAL,0705 266 2313,johnsjessica@example.com,Ibadan,2021-05-23 08:16:02
+CUST00509,Lawrence Ruiz,individual,0806 582 5346,ajackson@example.net,Lag,2021-11-16 07:46:59
+CUST00510,Samantha White,insurance,+2348154434998,gary57@example.net,Ibadan,31/03/2021
+CUST00511,James Rodriguez,INDIVIDUAL,0702 539 7719,alexandrablankenship@example.net,Abeokuta,1711420488000
+CUST00512,Lisa Thompson,corporate,0801 535 2233,richamanda@example.org,Abuja,2021-06-15 11:08:33
+CUST00513,Mr. Larry Carey,fleet,09147960665,xboyd@example.org,Ibadan,1740954161000
+CUST00514,Todd Olson,insurance,0704 978 6693,zbell@example.net,Lagos,2025-07-24 21:04:38
+CUST00515,Cesar Woods,INDIVIDUAL,09181565674,reneemiller@example.net,Abeokuta,1744685708000
+CUST00516,Colin Fletcher,corporate,09023948820,lanedavid@example.org,Abeokuta,2023-11-08 02:38:59
+CUST00517,Melissa Stewart,individual,+2348013188066,daniel69@example.com,Lagos,2022-11-19 18:33:03
+CUST01717,MELISSA STEWART,individual,+2348013188066,daniel69@example.com,Ibadan,2025-03-22 13:16:23
+CUST00518,Jacob Hill,corporate,+2349140554079,afischer@example.net,Abeokuta,28/05/2025
+CUST00519,Mr. Justin King,insurance,0706 227 8055,,Lagos,1681045583000
+CUST00520,Patricia Sanders,fleet,0705 800 9699,notanemail,Ibadan,2021-11-01 21:31:48
+CUST00521,Mary Adkins,individual,+2349061192463,klogan@example.org,Lagos State,2022-06-27 05:33:11
+CUST00522,Rachel Owen,INDIVIDUAL,0806 247 8133,martintamara@example.org,Lag,1623180428000
+CUST00523,Kaitlyn Burke,INDIVIDUAL,0811 149 6555,brownjeffrey@example.org,Lagos,2020-12-25 05:38:14
+CUST01723,KAITLYN BURKE,individual,0811 149 6555,brownjeffrey@example.org,Ibadan,1701899350000
+CUST00524,Jennifer Douglas,fleet,07050894954,jennifer90@example.org,LAGOS,12/11/2024
+CUST00525,Dakota Sandoval,insurance,09129120002,james98@example.net,Abuja,19/08/2022
+CUST00526,Megan Ward,insurance,08086140729,cantrellchristopher@example.com,Lagos State,1705954788000
+CUST00527,James Willis,insurance,+2348119041276,notanemail,Lagos State,24/01/2025
+CUST00528,Michael Calhoun,INDIVIDUAL,+2348023427820,jessica89@example.com,Lag,14/08/2023
+CUST00529,Destiny Obrien,INDIVIDUAL,+2349198506156,shawnpowell@example.org,Ibadan,1668823136000
+CUST00530,Jonathan Hansen,INDIVIDUAL,08167486445,,Abeokuta,1733801068000
+CUST00531,Travis Pratt,fleet,08158249394,nancy94@example.net,Lagos State,05/06/2024
+CUST00532,Kristine Carrillo,insurance,0817 536 0192,notanemail,Lagos,21/07/2023
+CUST00533,Judy Murray,individual,08082292089,olsonjonathan@example.com,Abeokuta,2022-07-15 15:17:32
+CUST00534,Crystal Stewart,insurance,09194775473,zachary04@example.org,Lagos State,1675851333000
+CUST00535,Michael Nicholson,insurance,+2347084033693,spencergregory@example.com,Lagos State,1693631137000
+CUST00536,Kenneth White,insurance,08162680236,victorgonzalez@example.net,Abeokuta,20/09/2022
+CUST00537,Christine Harris,insurance,09178506338,marykelly@example.org,Lagos,1630908659000
+CUST00538,Megan Alvarado,INDIVIDUAL,0913 225 9144,,Ibadan,1600507051000
+CUST00539,Kimberly Williams,INDIVIDUAL,+2348074894729,n/a,Lagos,06/10/2024
+CUST00540,Ethan Villanueva,fleet,07099736040,travis84@example.com,Lagos State,20/07/2022
+CUST00541,Bethany Fox,insurance,0701 535 5917,imendoza@example.org,Abeokuta,08/12/2024
+CUST00542,Scott Parsons,corporate,0818 766 2596,sbray@example.net,Abeokuta,29/07/2024
+CUST00543,Adam Craig,INDIVIDUAL,+2347079345320,ucarpenter@example.com,Ibadan,14/11/2022
+CUST00544,Dennis Adams,individual,+2348175345452,michael76@example.org,Ibadan,2024-03-24 00:13:47
+CUST00545,Jacqueline Dickerson,INDIVIDUAL,0802 034 6606,shannon92@example.net,LAGOS,2022-08-10 01:34:02
+CUST00546,Michelle Brock,fleet,0912 588 2013,mchase@example.org,Abeokuta,2021-12-07 13:30:24
+CUST00547,Adam Fisher,corporate,09074293132,wendyatkinson@example.net,Lagos,2025-03-15 23:01:21
+CUST01747,ADAM FISHER,individual,09074293132,wendyatkinson@example.net,LAGOS,2023-05-07 20:43:29
+CUST00548,Elizabeth Hart,fleet,0911 526 0108,,LAGOS,1751155941000
+CUST00549,Brett Martin,fleet,0918 564 5742,notanemail,Lagos,2022-06-30 08:48:11
+CUST00550,Karen Soto,corporate,09074648438,qgarner@example.com,Ibadan,2023-09-23 08:48:04
+CUST00551,Tara Scott,INDIVIDUAL,0809 364 6063,jenkinsmichael@example.net,Abeokuta,1652136434000
+CUST00552,Marie Ryan,corporate,0909 006 5352,n/a,LAGOS,2023-01-31 04:21:37
+CUST01752,MARIE RYAN,individual,0909 006 5352,n/a,Ibadan,1694052880000
+CUST00553,Jordan Hampton,insurance,0903 007 3763,n/a,Ibadan,2024-06-18 11:55:11
+CUST00554,Jane Mitchell,INDIVIDUAL,09177555702,notanemail,Ibadan,1637615051000
+CUST00555,Margaret Mcfarland,individual,+2349080067590,kwelch@example.com,Abeokuta,1617880303000
+CUST00556,Greg Edwards,insurance,+2349061168696,jennifer96@example.com,Lagos,12/06/2024
+CUST00557,Teresa Adkins,insurance,09041207351,lgutierrez@example.org,Lagos State,22/09/2021
+CUST00558,Mary Shepard,corporate,0708 757 6121,,Abeokuta,2021-05-05 16:27:17
+CUST00559,James Davis,insurance,+2348164874257,n/a,Lag,08/09/2024
+CUST00560,Allison Sanders,corporate,+2349085788756,garciachristine@example.org,Abuja,2023-12-24 03:26:07
+CUST00561,David Mitchell,insurance,09174755726,davidroberson@example.org,Lagos State,17/12/2020
+CUST00562,Shannon Nguyen,INDIVIDUAL,0915 621 8720,imcdonald@example.com,Abuja,1745978023000
+CUST00563,Wayne Wolfe,individual,0806 994 0949,brittanybryant@example.net,LAGOS,1750122455000
+CUST00564,Mark Ferguson,individual,0818 389 7088,timothy31@example.com,LAGOS,13/04/2023
+CUST00565,David Torres,insurance,07022225702,millskatherine@example.org,Lagos State,2023-08-03 08:18:48
+CUST01765,David  Torres,individual,07022225702,millskatherine@example.org,Lagos,1675709778000
+CUST00566,Adam Weeks,insurance,+2347061583363,xevans@example.com,Lag,1677363437000
+CUST00567,Rebecca Kelley,individual,0703 352 4492,robertcastro@example.com,LAGOS,1665810002000
+CUST00568,Omar Price,insurance,09148387144,notanemail,Ibadan,1700297341000
+CUST00569,Bobby Garrett,individual,+2348014840043,justin84@example.com,LAGOS,2022-04-06 00:44:15
+CUST00570,Catherine Roberts,insurance,0905 739 5992,rwilliamson@example.net,LAGOS,1730801798000
+CUST01770,CATHERINE ROBERTS,individual,0905 739 5992,rwilliamson@example.net,Lagos,1649138368000
+CUST00571,Christian Booker,fleet,0818 504 2992,lopezcurtis@example.com,LAGOS,1632293978000
+CUST00572,Monica Hall,corporate,0906 421 8119,,Ibadan,2021-12-11 02:11:09
+CUST00573,Daniel Fisher,insurance,+2349149493811,dbolton@example.net,Lag,1607251991000
+CUST00574,Ryan Lynn,corporate,0914 357 3422,adamsphilip@example.net,Ibadan,29/08/2024
+CUST00575,Steven Wright,insurance,0817 158 5593,hclayton@example.net,Abuja,2022-10-12 10:22:28
+CUST00576,William Wright,INDIVIDUAL,+2348119066979,gonzalezjill@example.org,Abeokuta,1738624840000
+CUST00577,Christine Price,individual,+2348165354876,sharon20@example.net,Abeokuta,03/05/2025
+CUST00578,Dawn Little,fleet,0706 354 3563,michaelwilliams@example.net,Lagos,1657191110000
+CUST00579,Cynthia Hamilton,insurance,+2349052127291,jacksonjoshua@example.org,Lag,2024-01-11 16:00:04
+CUST00580,Alexa Williams,INDIVIDUAL,0807 697 4557,jbarker@example.com,Abuja,03/06/2021
+CUST00581,Jonathan Parks,individual,0804 351 3553,sarah00@example.com,Lagos,2021-12-21 03:23:08
+CUST00582,Rebecca Martinez,insurance,09092386462,levigrant@example.net,Lagos,14/08/2023
+CUST00583,Jessica Lee,corporate,0817 608 0806,ihoward@example.com,LAGOS,1609332748000
+CUST00584,Mr. Edward Terry,corporate,08087398691,n/a,Ibadan,2022-04-11 13:06:25
+CUST00585,Kimberly Morris,insurance,+2349033461307,mhill@example.net,Lagos State,10/01/2022
+CUST00586,Christopher Phillips,fleet,+2347038286706,amber70@example.net,Lag,1734549617000
+CUST00587,Cody Smith,corporate,+2348083626933,kimberly35@example.net,Ibadan,14/03/2021
+CUST00588,Kimberly Hughes,fleet,09066900650,jcannon@example.net,Lag,26/01/2023
+CUST00589,Martin Rodriguez,INDIVIDUAL,08086693314,williamssharon@example.org,Abuja,2020-12-05 02:20:07
+CUST00590,John Garcia,INDIVIDUAL,+2348084536479,hbarrett@example.net,LAGOS,1667435599000
+CUST00591,Daniel Robbins,insurance,+2347033703827,conradjason@example.com,Ibadan,1620192264000
+CUST00592,Mark Ward,insurance,+2349050269906,yshort@example.net,Lagos,27/02/2021
+CUST00593,Deborah Williams,corporate,08018057946,davenportchristian@example.org,Abuja,1738180890000
+CUST00594,Neil Schmidt,insurance,+2348144865621,jamessandoval@example.net,Abuja,08/03/2022
+CUST00595,Kristin Reese,insurance,+2349026272220,emily61@example.org,LAGOS,1647157449000
+CUST00596,Kathy Sandoval,insurance,+2349133426205,umahoney@example.net,Lagos State,1685877696000
+CUST00597,Jennifer Schultz,INDIVIDUAL,0706 114 6483,charlene98@example.org,Abuja,2023-11-08 05:07:30
+CUST00598,Tammy King,corporate,0816 661 5250,zwest@example.org,Abuja,2020-12-15 15:02:54
+CUST01798,Tammy  King,individual,0816 661 5250,zwest@example.org,Lag,30/01/2023
+CUST00599,Kelly Holder,fleet,0814 589 9536,adam33@example.com,Lagos State,05/11/2020
+CUST00600,Terri Short,individual,+2349170436720,clintonstevens@example.org,LAGOS,1635886290000
+CUST00601,Steve Wright,individual,08120746107,lisa19@example.com,Lagos,2025-07-02 22:57:07
+CUST00602,Morgan Cummings,insurance,09083609531,n/a,Abuja,2024-10-07 02:40:35
+CUST00603,Roger Norris,corporate,09130840572,larsonkevin@example.net,Lag,2025-07-25 09:13:20
+CUST00604,Richard Weeks,INDIVIDUAL,0816 947 9985,notanemail,Lagos,2023-07-04 20:17:40
+CUST00605,Robert Butler,insurance,+2348173908407,kanejeremy@example.net,Lag,1601798416000
+CUST00606,Lynn Brown,insurance,0913 376 1455,floresannette@example.com,Lagos State,1733595027000
+CUST00607,Brittany Nunez,INDIVIDUAL,+2349151562039,wmaddox@example.net,Abuja,2025-07-22 04:30:21
+CUST00608,Courtney Roberts,individual,+2348165325058,vhernandez@example.org,Lagos,1726465283000
+CUST00609,Amber Ross,individual,+2348056155452,rossryan@example.net,Abeokuta,08/10/2021
+CUST00610,Karen Gonzalez,fleet,09050213043,mpearson@example.net,Ibadan,2025-02-13 17:08:36
+CUST00611,Benjamin Frank,insurance,09160149632,gail91@example.org,Lagos State,06/03/2024
+CUST00612,Gregory Flores,corporate,09060782359,carrillogary@example.com,Abeokuta,2024-06-03 19:58:13
+CUST00613,Jessica Glass,insurance,+2349146489118,jamesbrooks@example.net,Abuja,23/05/2021
+CUST00614,Anthony Rush,corporate,07034482277,mistywilkins@example.org,Ibadan,01/08/2023
+CUST00615,Ashley Cole,INDIVIDUAL,09176034587,riverajody@example.org,Lagos,1653436531000
+CUST01815,ASHLEY COLE,individual,09176034587,riverajody@example.org,Lag,23/04/2025
+CUST00616,Deanna Webb,INDIVIDUAL,0806 884 3284,,Lagos,12/11/2021
+CUST00617,Mary Bennett,corporate,+2349051819114,scottbrian@example.org,Abeokuta,2022-12-20 18:36:23
+CUST00618,Matthew Smith,individual,+2348017521339,qguerrero@example.net,Ibadan,23/09/2023
+CUST00619,Alicia Dillon,INDIVIDUAL,08161214452,notanemail,Lagos State,13/12/2023
+CUST00620,James Bray,individual,+2347036733470,mckeetodd@example.net,Ibadan,1741422348000
+CUST00621,Cristian Rasmussen,fleet,0906 222 7199,williamssandra@example.com,LAGOS,1688270940000
+CUST00622,Patrick Smith DDS,fleet,09179917538,colleen38@example.com,LAGOS,10/03/2021
+CUST00623,Sherry Zamora,fleet,08025157001,raymondstacy@example.org,Lagos,2021-12-14 06:34:38
+CUST00624,James Taylor,individual,+2349126059096,rmeyer@example.net,Lagos,1659778755000
+CUST00625,Kenneth Simmons,individual,09090022258,renee57@example.net,LAGOS,2021-10-13 08:02:15
+CUST00626,Charles Weaver,INDIVIDUAL,0915 542 2244,n/a,Abeokuta,1653036261000
+CUST00627,Ellen Thornton,insurance,08075477163,russellstout@example.org,Abuja,1750353255000
+CUST00628,Emily Grant,fleet,09035899364,whitemary@example.org,Abeokuta,2020-11-29 12:49:58
+CUST00629,Sheryl Gutierrez,fleet,0707 513 6149,vturner@example.net,Ibadan,1672229221000
+CUST00630,Cole Anderson,corporate,0913 504 8615,farmercheryl@example.com,Lag,1750943494000
+CUST00631,Linda Hall,corporate,09131520928,howardhailey@example.com,Lag,20/10/2021
+CUST00632,Lisa Joseph,INDIVIDUAL,0901 009 6613,jack67@example.com,Lagos,1635645914000
+CUST00633,Darrell Ortiz,insurance,+2349142049389,schaeferstephanie@example.org,Abuja,22/05/2022
+CUST00634,Andrea Ho,fleet,09084016756,fcamacho@example.net,Lagos State,1685942527000
+CUST00635,Stacy Patterson,INDIVIDUAL,0708 022 2787,,Abuja,2021-01-06 21:11:18
+CUST00636,Samantha Cortez,corporate,09035718350,notanemail,Abeokuta,06/01/2024
+CUST00637,Natalie Wheeler,insurance,09144351488,meyershannon@example.org,Abeokuta,2022-10-02 08:43:46
+CUST01837,NATALIE WHEELER,individual,09144351488,meyershannon@example.org,Abeokuta,27/01/2025
+CUST00638,Victoria Williams,corporate,0707 282 1834,notanemail,Abuja,16/12/2023
+CUST00639,Lydia Williams,individual,+2347092803389,scott44@example.com,Abuja,29/01/2022
+CUST01839,Lydia  Williams,individual,+2347092803389,scott44@example.com,Ibadan,2024-04-03 11:27:32
+CUST00640,Thomas Vaughn,INDIVIDUAL,0704 100 6711,stevenlucas@example.org,Ibadan,1733126926000
+CUST00641,Richard Pace,individual,0808 495 0330,phillipmorris@example.org,Abuja,1646749975000
+CUST00642,Steven Huang,INDIVIDUAL,+2349099287317,udavis@example.net,Abuja,2022-01-21 10:40:33
+CUST00643,Becky Wilson,insurance,0915 530 0210,fwalters@example.net,Lagos State,06/12/2023
+CUST00644,Vanessa Salazar,corporate,+2349153574336,nicholasjames@example.org,Abuja,1688706746000
+CUST00645,Mary Hernandez,insurance,0808 558 4002,haroldjoseph@example.com,Abeokuta,14/04/2023
+CUST00646,Randy Griffin,fleet,+2349070062404,,Ibadan,2022-03-14 08:04:03
+CUST00647,Carlos Harris,INDIVIDUAL,+2348110881653,alexander77@example.net,Abuja,16/09/2020
+CUST01847,CARLOS HARRIS,individual,+2348110881653,alexander77@example.net,Abeokuta,10/11/2024
+CUST00648,Kevin Alvarez,insurance,0917 862 1697,mramos@example.net,LAGOS,2020-09-19 08:30:55
+CUST01848,Kevin  Alvarez,individual,0917 862 1697,mramos@example.net,LAGOS,29/09/2022
+CUST00649,Diana Fuller,fleet,08188135616,brandonhernandez@example.net,Lagos,1692418321000
+CUST00650,Scott Estrada,corporate,0802 036 1818,mark10@example.org,LAGOS,17/03/2024
+CUST00651,Candace Mitchell DDS,individual,0912 279 9546,tammycurry@example.com,Abeokuta,1608353362000
+CUST00652,Edwin Richardson,corporate,+2347054881018,wwilkins@example.com,Lagos State,2025-05-06 04:29:40
+CUST00653,John Martinez,corporate,0809 761 4538,mark68@example.org,Lagos,10/06/2022
+CUST00654,Ashley Blair,INDIVIDUAL,0818 246 8141,notanemail,LAGOS,2025-02-28 07:30:49
+CUST00655,Mrs. Melissa Peck,individual,0906 980 9598,ronald54@example.net,LAGOS,21/07/2025
+CUST00656,Heather Anderson DDS,corporate,09029865888,lvasquez@example.net,Ibadan,1661199762000
+CUST01856,Heather  Anderson  DDS,individual,09029865888,lvasquez@example.net,Lagos,18/02/2023
+CUST00657,April Johnson,corporate,0916 831 6409,,Ibadan,2021-08-31 07:34:27
+CUST00658,Christine Gilbert,insurance,0913 632 0002,vgutierrez@example.com,LAGOS,2025-06-06 02:00:13
+CUST01858,CHRISTINE GILBERT,individual,0913 632 0002,vgutierrez@example.com,Lag,1655728053000
+CUST00659,Curtis Campbell,corporate,09122025190,parkerwilliam@example.com,Lag,17/09/2020
+CUST00660,Gary Foster,INDIVIDUAL,0818 970 8841,n/a,Lag,1751447736000
+CUST00661,Alyssa Thompson,INDIVIDUAL,09093642093,martha77@example.org,LAGOS,1635170182000
+CUST00662,Mr. Steven Herrera,INDIVIDUAL,0702 508 2279,notanemail,Abuja,07/07/2023
+CUST01862,MR. STEVEN HERRERA,individual,0702 508 2279,notanemail,Lagos,05/08/2024
+CUST00663,Jennifer Newton,insurance,09073242092,annette58@example.net,LAGOS,2020-10-27 02:08:34
+CUST00664,Michael Marsh,INDIVIDUAL,+2348183658696,carl24@example.org,Abeokuta,1689769555000
+CUST00665,Miss Sarah Duncan,fleet,0908 824 9598,hlopez@example.com,LAGOS,2023-05-04 01:10:11
+CUST00666,Denise Miller,individual,09146410780,nathangallegos@example.com,Lagos,02/07/2022
+CUST00667,Carrie Brooks,corporate,08124480943,stricklandrobin@example.com,LAGOS,19/12/2024
+CUST00668,John Porter,insurance,+2347052339783,matthewwebb@example.net,Lagos,2023-04-21 04:25:04
+CUST00669,Briana Wiggins,insurance,0908 525 4207,,Lag,19/01/2025
+CUST00670,Brandi Hardy,fleet,+2348012465878,hhughes@example.org,Abeokuta,11/09/2020
+CUST00671,Andrew Charles,corporate,09147027755,cookpamela@example.org,Abuja,2025-02-02 07:28:57
+CUST00672,Nichole Johnson,corporate,08140277197,danielle35@example.org,Abeokuta,2022-04-20 03:38:20
+CUST00673,Joseph Mejia,INDIVIDUAL,0907 988 9565,nelsoneric@example.org,Lagos State,2020-10-16 08:01:05
+CUST00674,Kristin Garcia,insurance,0905 192 7304,andrea42@example.net,LAGOS,2023-01-27 00:21:56
+CUST00675,Carolyn Collins,INDIVIDUAL,0918 265 9280,amber02@example.org,Lag,1725091141000
+CUST00676,Amber Reyes,INDIVIDUAL,+2349128153282,simmonsharold@example.net,Abeokuta,1718407283000
+CUST00677,Emily Roth,individual,0811 910 1846,beltrankatelyn@example.com,LAGOS,28/06/2025
+CUST00678,Robert Gillespie,corporate,+2348013957187,tdavis@example.net,Lagos State,14/08/2024
+CUST00679,Travis Thomas,individual,08130395330,,Abuja,1668003133000
+CUST00680,Jenna Lyons,INDIVIDUAL,0918 610 7235,kristina57@example.com,LAGOS,1606856589000
+CUST01880,Jenna  Lyons,individual,0918 610 7235,kristina57@example.com,Abuja,21/03/2021
+CUST00681,Gregory Murray,fleet,0807 742 0864,justinbailey@example.net,LAGOS,29/09/2021
+CUST00682,Jennifer Klein,corporate,08031983035,nguyendebra@example.com,Abuja,2025-03-12 02:47:01
+CUST00683,Kevin Allen,INDIVIDUAL,0903 987 0720,amydickson@example.com,Abuja,2021-03-23 04:10:51
+CUST01883,KEVIN ALLEN,individual,0903 987 0720,amydickson@example.com,Lagos State,1690188783000
+CUST00684,Michael Reynolds,corporate,+2349053606752,vbradley@example.net,Lagos State,2022-09-02 15:20:16
+CUST00685,Michael Stevenson,insurance,+2349051996390,mwilson@example.com,Ibadan,1686072039000
+CUST00686,Samantha Thompson,individual,07079880338,gjones@example.net,LAGOS,1700445774000
+CUST00687,Matthew Brown,individual,+2347084853354,lisaclay@example.net,LAGOS,30/08/2020
+CUST00688,Mary Chavez,fleet,+2348148374806,peter97@example.org,Ibadan,2022-05-30 21:38:30
+CUST00689,Emily Hudson,insurance,0807 222 0513,samantha65@example.org,Lagos,2025-08-14 09:40:05
+CUST00690,William Powell,corporate,+2349128160554,melissabrown@example.net,Lagos,2021-02-10 23:51:18
+CUST00691,Justin Irwin,INDIVIDUAL,08071026547,callahanmichelle@example.org,Abeokuta,1714616770000
+CUST00692,Jennifer Flores,insurance,0707 031 7234,bsullivan@example.net,Abeokuta,17/06/2022
+CUST00693,Karen Lopez,corporate,09192150984,xbridges@example.com,Lagos,2021-12-22 05:23:54
+CUST00694,Shane Martinez,INDIVIDUAL,09198520663,jonesalfred@example.net,LAGOS,1729376917000
+CUST01894,Shane  Martinez,individual,09198520663,jonesalfred@example.net,Abeokuta,17/05/2024
+CUST00695,Brandy Taylor,INDIVIDUAL,08194081078,,Lagos,1710362973000
+CUST00696,Stephanie Dominguez,insurance,+2347071557975,dhanson@example.net,Abuja,2024-04-08 15:25:25
+CUST00697,Joanna Kelly,corporate,09041927492,rogersmith@example.com,Lagos State,04/09/2022
+CUST00698,Debra House,insurance,09190544341,arthur09@example.com,Lag,1697668588000
+CUST00699,John Vaughn,fleet,08016565770,notanemail,Lagos,2021-11-14 09:12:19
+CUST00700,Kelsey Villarreal,individual,+2349190971604,steven18@example.net,Lagos,2021-05-31 17:25:59
+CUST00701,Mark Alvarado,insurance,0803 165 4047,suttonamber@example.net,Ibadan,1682615028000
+CUST00702,Stephanie Nichols,individual,+2349087707540,harrisonwilliam@example.com,Abuja,18/07/2025
+CUST00703,Jennifer Yu,individual,+2349019082067,keith09@example.net,Lag,01/04/2023
+CUST00704,Kristy Brown,INDIVIDUAL,0815 418 5620,klane@example.org,Abeokuta,2023-02-22 09:05:28
+CUST00705,Lori Mitchell,insurance,0708 668 7590,martinezchase@example.com,Lagos,22/10/2022
+CUST00706,Douglas Hodge,fleet,+2349148545627,figueroacassandra@example.net,Lag,1639302779000
+CUST00707,Jacqueline Thompson,corporate,09157493391,toddlloyd@example.org,Ibadan,1690761579000
+CUST00708,Dr. Linda Underwood,fleet,0903 414 6739,amullins@example.com,LAGOS,2022-09-08 05:02:31
+CUST00709,Molly Jackson,INDIVIDUAL,09093947919,brian41@example.org,Abuja,1643722512000
+CUST00710,John Alvarez,INDIVIDUAL,+2349016105858,noahthornton@example.com,Lagos,1669230526000
+CUST00711,Seth Smith,insurance,08144147341,ureyes@example.net,Ibadan,04/01/2021
+CUST00712,Joseph Gomez,insurance,+2347054732472,pbishop@example.com,Ibadan,2023-07-06 15:22:31
+CUST00713,Robert Scott,corporate,+2348054360949,rmurray@example.net,Lagos State,2022-09-20 04:05:02
+CUST00714,Leah Lee,insurance,0903 085 5594,erica25@example.net,Lag,01/10/2020
+CUST00715,Sandra Smith,fleet,0901 751 9183,foxgina@example.com,Ibadan,1657628144000
+CUST01915,SANDRA SMITH,individual,0901 751 9183,foxgina@example.com,Lag,27/01/2023
+CUST00716,Andrew Harvey,fleet,+2347030039365,maysdiane@example.org,Lagos State,1631421811000
+CUST00717,Barbara Gates,insurance,0808 663 5858,nicholasgallagher@example.net,Lagos,23/06/2025
+CUST00718,Cathy Rodriguez,corporate,+2348114245067,jonowens@example.org,LAGOS,08/07/2024
+CUST00719,Destiny Simmons,individual,0813 900 9803,jonathan14@example.org,Lag,2023-12-02 05:57:28
+CUST00720,Zachary Scott,insurance,0706 956 2350,n/a,LAGOS,2022-11-30 05:14:13
+CUST00721,Benjamin Krause,INDIVIDUAL,+2349080280155,chelseywhite@example.com,Abuja,2021-08-01 19:33:26
+CUST00722,Randy Robinson,corporate,09127812995,gainesjennifer@example.org,Lagos State,1608090523000
+CUST00723,Kenneth King,insurance,+2347010551617,fsmith@example.org,Abuja,2020-09-01 15:05:27
+CUST00724,Mary Adams,fleet,0702 383 8227,rebecca90@example.net,Lagos,1730448386000
+CUST00725,Jared Luna,fleet,08053067834,fernandezaaron@example.net,Ibadan,05/10/2024
+CUST00726,Joseph Frey,individual,07046595028,evelyn60@example.net,Lagos,1623067253000
+CUST00727,Samuel Peterson,fleet,0703 772 6346,shodges@example.net,Lag,2022-05-23 00:09:19
+CUST00728,Andrew Cruz,fleet,08187052108,kentprice@example.org,Ibadan,20/09/2023
+CUST00729,Dr. Jeffrey Lopez,individual,07027458237,leejennifer@example.net,Lagos,09/09/2022
+CUST01929,Dr.  Jeffrey  Lopez,individual,07027458237,leejennifer@example.net,LAGOS,1730059986000
+CUST00730,Ricky Schneider,corporate,0918 955 8393,zferguson@example.com,Ibadan,19/10/2020
+CUST00731,Anthony French,corporate,08081603135,sullivanjason@example.net,Ibadan,2025-02-10 05:01:22
+CUST00732,Michael Sawyer,corporate,+2349023054418,joycehall@example.org,Lagos State,2020-12-22 12:11:36
+CUST00733,Katherine Smith,corporate,+2348092804565,sanchezdeborah@example.org,LAGOS,1644970363000
+CUST00734,Summer Hoover,individual,+2348153588695,bryantgeorge@example.net,Lagos State,2021-03-16 15:25:13
+CUST00735,Ashley Crawford,insurance,+2349032924595,bryanharris@example.com,Ibadan,2024-01-30 22:19:47
+CUST00736,William Johnston,individual,+2349024358786,marcoconnell@example.org,Abuja,18/01/2021
+CUST00737,Gabriela Martinez,INDIVIDUAL,+2349089260394,katherinejackson@example.com,Ibadan,2025-05-15 07:27:59
+CUST00738,David Perkins,insurance,+2349018866414,craigboone@example.net,Lagos State,11/11/2023
+CUST00739,Alexis Tucker,individual,0818 308 5160,smithsara@example.net,Abeokuta,1674896230000
+CUST00740,Robert Barton,fleet,0902 534 4154,jamiebowman@example.net,Ibadan,2024-06-29 08:04:48
+CUST00741,Todd Bishop,insurance,+2348051343854,,Abuja,24/12/2020
+CUST00742,Michelle Salazar,insurance,07022151134,burtonkimberly@example.com,Abuja,1711149600000
+CUST00743,David Wilson,fleet,08098701999,montgomerymichelle@example.net,Lagos State,1734974557000
+CUST00744,Randy Hopkins,fleet,0803 760 3443,brian12@example.net,Ibadan,1726078249000
+CUST00745,Christopher Livingston Jr.,insurance,09056206415,justin64@example.com,Ibadan,07/07/2024
+CUST00746,Patrick Buckley,individual,+2348118376603,ericjohnson@example.net,Lagos,1629885007000
+CUST00747,David Wallace,INDIVIDUAL,+2348124723458,robert53@example.org,Lagos State,1686274475000
+CUST00748,David Gutierrez,insurance,+2348161377152,nicholaswalker@example.com,LAGOS,1755788529000
+CUST00749,Dr. Charles Reilly,fleet,0803 526 3378,xthompson@example.org,Abuja,22/07/2024
+CUST00750,Lynn Cantrell,INDIVIDUAL,08028022414,,Abeokuta,20/05/2022
+CUST00751,Andrew Carroll,corporate,08021363335,derek77@example.com,Abuja,12/02/2022
+CUST00752,Colleen Phillips,insurance,0916 713 7046,kristinelittle@example.net,Lagos State,1644349331000
+CUST00753,Kristen Hall,insurance,09057688529,fvincent@example.org,Lagos,1725830256000
+CUST00754,Diana Blair,insurance,+2348077340900,johnhamilton@example.org,Ibadan,05/12/2021
+CUST01954,Diana  Blair,individual,+2348077340900,johnhamilton@example.org,Lagos State,1752730654000
+CUST00755,Jennifer Williams,individual,0812 518 8664,gquinn@example.org,LAGOS,1713001364000
+CUST00756,Karen Yates,individual,0817 240 2697,notanemail,LAGOS,30/06/2021
+CUST00757,David Hansen,fleet,0709 505 2118,steelerichard@example.org,Ibadan,2021-10-16 06:07:09
+CUST00758,David Duarte,corporate,+2349111447323,castillokevin@example.net,Ibadan,1722016820000
+CUST00759,Nicole Johnson,insurance,+2348149542951,iford@example.net,Abeokuta,10/02/2024
+CUST00760,Seth Sims,insurance,09144956086,daltonchad@example.net,LAGOS,1688092833000
+CUST01960,SETH SIMS,individual,09144956086,daltonchad@example.net,Abuja,1741250464000
+CUST00761,Jeffery Nelson,INDIVIDUAL,+2349113663887,kristinmiller@example.com,Ibadan,2021-02-16 05:26:59
+CUST00762,Susan Cox,fleet,08143829709,rodriguezmichael@example.net,Abuja,03/01/2021
+CUST01962,Susan  Cox,individual,08143829709,rodriguezmichael@example.net,LAGOS,1696861279000
+CUST00763,Matthew Bush,INDIVIDUAL,+2348098470372,devonrogers@example.net,Lag,1629211929000
+CUST00764,Nancy Goodwin,individual,08080784933,karenhodges@example.com,LAGOS,1693409340000
+CUST00765,Kathy Henderson,INDIVIDUAL,+2348076565050,brownmichael@example.com,Abeokuta,04/12/2024
+CUST00766,Barbara Mckinney,fleet,0803 830 0713,shannon51@example.org,Lagos,1721638672000
+CUST00767,James White,corporate,07017049544,rodriguezjoshua@example.net,Lag,02/12/2021
+CUST00768,Shaun Meyer DDS,corporate,+2349141361490,robert82@example.com,Lagos State,12/08/2023
+CUST00769,Oscar Smith,corporate,+2349011592230,bryanwiggins@example.org,Lagos State,1738217184000
+CUST00770,Jennifer Cooper,fleet,09115505291,todd88@example.com,Abuja,22/07/2024
+CUST00771,Carlos Clarke,individual,+2348154958564,kristinaperez@example.com,Lag,1676081303000
+CUST00772,Amber Gomez,INDIVIDUAL,0904 245 3439,nhuber@example.org,Ibadan,20/03/2025
+CUST00773,William Franco,individual,0805 204 6364,,Lagos,19/12/2021
+CUST00774,Bruce Chaney,fleet,+2347069853349,scottwood@example.org,Lag,2025-06-12 12:29:02
+CUST01974,BRUCE CHANEY,individual,+2347069853349,scottwood@example.org,Lagos,1608044403000
+CUST00775,Vanessa Hernandez,individual,0809 044 8089,,Abuja,1719103291000
+CUST00776,Carla Turner,fleet,09134799223,sullivanvictor@example.org,Lag,23/07/2024
+CUST00777,Brittney Cordova,fleet,+2347095735668,deborah47@example.com,Abuja,17/07/2025
+CUST00778,Rebecca Chandler,fleet,08144539133,hmorgan@example.net,Abuja,2024-09-26 01:49:28
+CUST00779,Brenda Pierce,fleet,+2348118060935,angel93@example.com,LAGOS,14/09/2023
+CUST01979,BRENDA PIERCE,individual,+2348118060935,angel93@example.com,LAGOS,1623554237000
+CUST00780,Lee Lee,INDIVIDUAL,0903 395 0102,kimberlywang@example.org,Ibadan,07/11/2020
+CUST00781,Samuel Rhodes,individual,0706 926 8093,daughertypreston@example.com,Lagos,2023-05-14 04:08:06
+CUST00782,Kayla Brown,INDIVIDUAL,08169845276,raymond65@example.com,Abeokuta,1698813723000
+CUST01982,Kayla  Brown,individual,08169845276,raymond65@example.com,Lagos State,06/10/2020
+CUST00783,Gregory Madden,insurance,+2348054269149,lewispamela@example.net,Abeokuta,13/03/2024
+CUST00784,Donna Shaffer,corporate,0901 940 8620,achandler@example.org,Abeokuta,28/08/2025
+CUST00785,Briana Turner,corporate,+2349158173202,carl96@example.org,Lagos,1600505761000
+CUST00786,Thomas Perry,fleet,0705 903 7166,wpage@example.org,Lagos,11/05/2022
+CUST00787,James Spencer,individual,08196945247,carsonkevin@example.net,Lagos State,1680310418000
+CUST00788,Patrick Walker DDS,corporate,0902 433 0160,joseblanchard@example.net,Lagos,1725575828000
+CUST00789,Maxwell Roberts,insurance,08028782825,traviswatts@example.org,LAGOS,26/11/2020
+CUST00790,Donald Gamble,corporate,+2349196356711,georgemichael@example.com,Lagos,2025-06-22 02:41:35
+CUST00791,David Jennings,insurance,+2348115746469,notanemail,Lagos State,1630829524000
+CUST00792,Nicholas Smith,individual,0912 999 2217,francisco02@example.com,Lagos,1722489570000
+CUST00793,Brandy Martin,INDIVIDUAL,0707 324 6028,notanemail,Lagos,2022-12-25 02:10:13
+CUST00794,Mark Friedman,insurance,+2348123058343,robertsalyssa@example.org,Lagos,2025-01-12 11:03:30
+CUST00795,Mark Duran,corporate,09192628262,,Lag,1643597829000
+CUST00796,Shelia Serrano,INDIVIDUAL,0812 621 3828,joseph51@example.net,Lag,2025-08-06 01:48:27
+CUST00797,Charles Taylor,INDIVIDUAL,+2349133279749,n/a,Abuja,21/01/2023
+CUST00798,John Peterson,insurance,08184277128,curtismoore@example.org,Lagos,2022-04-07 07:46:07
+CUST00799,Kristin Norris,individual,09160483455,n/a,Lagos,2025-02-18 01:54:38
+CUST00800,Michelle Park,corporate,0709 747 7181,butlersabrina@example.org,Abeokuta,11/10/2021
+CUST00801,Karen Collins,corporate,0802 920 4927,don79@example.net,Lagos State,2023-07-28 15:07:44
+CUST00802,Eric Garner,corporate,0911 504 9433,walkermelissa@example.org,Ibadan,2022-08-03 21:00:34
+CUST00803,Daniel Zavala,INDIVIDUAL,+2348156688115,,Lagos,1712761766000
+CUST00804,Rachel Jones,corporate,0915 857 3570,ctodd@example.org,Abuja,1627671031000
+CUST00805,Matthew Watkins,corporate,08117122803,,Lagos State,2024-08-26 07:42:36
+CUST00806,David Jones,INDIVIDUAL,0701 725 1463,websterkimberly@example.net,Lagos State,30/05/2022
+CUST00807,Christina Lambert,insurance,09015813974,davismeghan@example.com,LAGOS,2025-08-05 03:47:21
+CUST00808,Christopher Mason,corporate,09079109207,,Ibadan,1663642761000
+CUST00809,Andrea Weiss,fleet,08053712695,ricejennifer@example.com,LAGOS,2022-02-14 14:45:09
+CUST00810,Kimberly Beltran,individual,+2349036837617,glasssamantha@example.net,Lagos State,1726159496000
+CUST00811,Kevin Gonzales,corporate,09029453688,whitemichael@example.com,LAGOS,08/04/2024
+CUST00812,Darren Rodriguez,fleet,0903 605 9032,david18@example.org,LAGOS,17/11/2024
+CUST00813,Michele Hawkins,corporate,+2349118006318,n/a,Lagos State,2021-01-03 02:23:21
+CUST00814,Johnny Cruz,insurance,0804 961 5907,tburke@example.net,LAGOS,1717902519000
+CUST00815,Jason Mercer,corporate,+2348021606388,elopez@example.com,Abuja,2023-10-15 12:48:41
+CUST00816,Zachary Vasquez,INDIVIDUAL,09047469681,sandersalexandra@example.net,LAGOS,21/05/2021
+CUST00817,James Neal,individual,08089426243,figueroapatricia@example.org,Lagos State,2021-03-18 23:33:12
+CUST02017,James  Neal,individual,08089426243,figueroapatricia@example.org,Abuja,1696361679000
+CUST00818,Gina Larson,individual,0706 713 6170,bmartinez@example.net,Lagos State,27/11/2024
+CUST00819,Micheal Perkins,INDIVIDUAL,0911 166 7385,katelyn65@example.com,LAGOS,07/02/2024
+CUST00820,Ms. Brittany Gibson,INDIVIDUAL,+2347012138110,kingtyler@example.net,Abeokuta,22/10/2021
+CUST00821,Oscar Greer,INDIVIDUAL,+2349113276720,lgregory@example.com,Abuja,1686495575000
+CUST00822,Marco Davis,individual,+2348194129142,guerreroapril@example.com,Abuja,1723825806000
+CUST02022,MARCO DAVIS,individual,+2348194129142,guerreroapril@example.com,Lag,1652934665000
+CUST00823,Jonathan Wagner,insurance,+2347049807633,lisa88@example.org,Ibadan,1607214786000
+CUST00824,Sheryl Wilson MD,individual,+2347093276088,cramos@example.org,Ibadan,1646210579000
+CUST00825,Shannon Turner,insurance,+2347024893677,travistaylor@example.net,Lagos,21/12/2023
+CUST00826,Mr. Michael Keller,INDIVIDUAL,0911 899 3381,kalvarez@example.net,LAGOS,19/02/2021
+CUST00827,Johnny Arellano,insurance,+2347097112459,katie45@example.org,Abuja,1606288271000
+CUST00828,Bethany Richardson,insurance,+2348053011925,hubbardcolleen@example.com,Abeokuta,28/06/2021
+CUST00829,William Jenkins,insurance,+2347060038218,stanleyjohn@example.net,Ibadan,2023-04-26 14:13:22
+CUST00830,Susan Jones,fleet,+2349181518649,danny20@example.net,Abuja,1686270346000
+CUST00831,Matthew Henderson,INDIVIDUAL,+2347035280389,n/a,Lag,2025-01-15 05:40:10
+CUST00832,Deborah Dominguez,INDIVIDUAL,0812 503 5684,,Ibadan,1604701673000
+CUST02032,Deborah  Dominguez,individual,0812 503 5684,,Abeokuta,1683692691000
+CUST00833,James Armstrong,individual,+2348073606441,rgarcia@example.org,Lag,2023-07-09 17:56:41
+CUST02033,JAMES ARMSTRONG,individual,+2348073606441,rgarcia@example.org,LAGOS,1732072941000
+CUST00834,Pamela Morgan,fleet,0816 525 6328,michael63@example.com,Lagos State,1618947898000
+CUST00835,Kimberly Mitchell,insurance,+2349183614224,evansashley@example.org,LAGOS,11/06/2021
+CUST00836,Laura Vargas,fleet,+2348140438156,carlos87@example.com,Abuja,2022-06-12 13:40:50
+CUST00837,Billy Colon,INDIVIDUAL,08171193423,ryan85@example.org,Abeokuta,1709949258000
+CUST00838,Mario Chavez,individual,08099436783,nicoleburton@example.net,Lagos,01/04/2022
+CUST00839,Christy Hayden,insurance,+2349044951262,oadams@example.net,Abeokuta,2024-05-08 11:14:12
+CUST00840,Molly Brown,INDIVIDUAL,+2348129856736,michaelhernandez@example.org,Ibadan,20/03/2023
+CUST00841,Jennifer Dalton,corporate,+2347064299436,waltersmeghan@example.com,Lag,2023-02-07 17:59:30
+CUST02041,JENNIFER DALTON,individual,+2347064299436,waltersmeghan@example.com,Ibadan,10/01/2022
+CUST00842,Kyle Sullivan,insurance,+2348173607213,hernandezanthony@example.com,Abeokuta,2024-08-11 00:39:04
+CUST00843,Dr. Javier Bullock,individual,0905 545 7454,n/a,LAGOS,1652950437000
+CUST00844,Chad Green,INDIVIDUAL,+2348113328008,donna20@example.net,Lagos State,17/10/2024
+CUST00845,Amy Mosley,insurance,0709 162 4673,carolyn16@example.com,LAGOS,06/06/2021
+CUST00846,Ryan Cameron,individual,+2347082264474,danielnavarro@example.org,Ibadan,06/02/2025
+CUST00847,Lauren Hampton,individual,0819 095 6358,tyler13@example.net,Abeokuta,13/09/2021
+CUST00848,Emily Collier,fleet,+2349059610894,vshaffer@example.org,Lag,04/04/2024
+CUST00849,Brian Lewis,corporate,09085300576,scott49@example.org,Abeokuta,31/10/2024
+CUST00850,Melissa Rodriguez,corporate,0813 198 3567,pwells@example.com,Abeokuta,23/11/2021
+CUST00851,Mike Underwood,corporate,09190253572,n/a,Abuja,1604389687000
+CUST00852,Susan Johnson,fleet,+2347089279578,n/a,Lagos State,2021-02-15 19:03:38
+CUST00853,Rachel Allen,corporate,09128378036,sparker@example.com,Lag,1631492581000
+CUST00854,Cynthia Ramos,corporate,+2348188545322,browningphillip@example.com,LAGOS,2023-03-22 18:14:31
+CUST00855,Rodney Young,corporate,+2348045255913,michelemartin@example.com,Lagos,1683872549000
+CUST00856,Pamela Sullivan,INDIVIDUAL,08165989834,hillchristopher@example.com,Lagos,2024-09-01 13:30:26
+CUST00857,Tammy Cook,insurance,0901 895 5654,gmcdowell@example.org,Lagos State,1668786243000
+CUST00858,Heather Guzman,individual,0819 428 8202,shawn00@example.net,Lag,1648054851000
+CUST00859,Rachel Taylor,INDIVIDUAL,07044834491,tgonzalez@example.com,Lag,23/07/2025
+CUST00860,Christopher Black,corporate,08057967465,n/a,Abeokuta,08/10/2021
+CUST02060,Christopher  Black,individual,08057967465,n/a,Abeokuta,2024-02-25 17:47:19
+CUST00861,Emma Mendoza,individual,0913 601 3386,jorgemcdaniel@example.com,Ibadan,2023-01-22 10:43:38
+CUST00862,Jason White,fleet,+2348150409241,kduffy@example.org,Lagos,1604298534000
+CUST00863,Tammy Holland,fleet,08011731095,rebeccamccann@example.org,Abuja,21/11/2022
+CUST00864,Caroline Morales,INDIVIDUAL,08023746292,jburke@example.org,Abuja,2023-10-17 00:30:37
+CUST00865,Keith Smith,insurance,0919 233 2960,dayala@example.net,Abuja,1731379743000
+CUST00866,Micheal Lee,individual,+2347066015266,keith76@example.org,Abuja,2024-04-30 23:05:40
+CUST00867,Lindsay Carney,INDIVIDUAL,+2349056735943,jessica36@example.org,Abuja,20/02/2024
+CUST00868,Alyssa Cherry,fleet,+2349180212126,christinesolomon@example.com,Lagos,1755200875000
+CUST00869,Judith Smith,fleet,0802 727 5764,,LAGOS,2021-10-17 18:52:30
+CUST00870,Valerie Sanders,individual,0706 701 6371,jennifererickson@example.net,Lagos,2022-11-03 23:57:37
+CUST00871,Justin Williams,insurance,09015706527,notanemail,Ibadan,2022-08-29 13:26:32
+CUST00872,Hector Obrien,individual,08115809144,smithwilliam@example.com,Abuja,2023-03-27 18:58:41
+CUST00873,Megan Anderson,INDIVIDUAL,0913 756 8480,carpenterjorge@example.net,Abeokuta,08/11/2024
+CUST02073,Megan  Anderson,individual,0913 756 8480,carpenterjorge@example.net,Abeokuta,19/07/2023
+CUST00874,Bonnie Stewart,insurance,+2349156685830,hthomas@example.com,Abuja,1610587311000
+CUST00875,Kathryn Mcpherson,individual,09186535694,notanemail,Ibadan,2023-01-19 23:19:19
+CUST00876,Tammy Campbell,individual,0813 305 5043,notanemail,LAGOS,1669389233000
+CUST00877,Pam Baker,corporate,0905 918 5834,ryan25@example.net,Abeokuta,2024-11-03 06:29:52
+CUST00878,Brittany Farrell,INDIVIDUAL,+2348160951070,jbrown@example.org,Lagos State,2022-08-14 02:02:23
+CUST00879,John Martin,corporate,+2348126591378,,Abuja,20/08/2024
+CUST00880,Zachary Ho,individual,09115450389,alexandervanessa@example.net,Lagos State,15/10/2024
+CUST00881,Brian Cortez,fleet,08169586748,daviddavis@example.com,Abuja,14/03/2022
+CUST00882,Nicole Carson,individual,0707 384 4258,brandybonilla@example.net,Abeokuta,08/07/2025
+CUST00883,Thomas Sanchez,individual,0906 879 5196,vrhodes@example.org,Lagos,2023-01-30 03:56:29
+CUST00884,Melanie Long,INDIVIDUAL,0912 365 2916,hooderic@example.org,Lagos,29/07/2024
+CUST00885,Mary Gibson,corporate,0813 687 8911,brooke05@example.org,Lagos,2024-07-07 16:07:44
+CUST00886,Nicholas Navarro,insurance,0904 738 2097,jasonwilliams@example.net,Lag,1674687511000
+CUST00887,Anthony Jones,corporate,0817 386 4322,qdavis@example.org,Lagos State,1663175041000
+CUST00888,Sharon Davis,corporate,09024500436,frankchan@example.com,LAGOS,1640107832000
+CUST00889,John Reynolds,corporate,0702 336 8540,,Abeokuta,2023-04-20 09:13:28
+CUST00890,Lindsey Howard,fleet,0909 114 5880,collierwilliam@example.com,Ibadan,1718301559000
+CUST00891,Karen Hart,corporate,0709 872 8736,bdavis@example.com,LAGOS,31/03/2022
+CUST00892,Jeffery Williams,insurance,+2349077752405,teresa32@example.com,Ibadan,2025-02-23 03:08:44
+CUST00893,Kelly Roberts,fleet,07067768169,zmiller@example.com,Abuja,21/03/2023
+CUST00894,Carl Leach,fleet,07014410367,alexandraphillips@example.org,Abeokuta,2025-05-07 19:30:38
+CUST00895,Andrew Rodriguez,individual,0805 193 7627,dgutierrez@example.net,Ibadan,1751328729000
+CUST00896,Heather Richards,insurance,0918 239 6020,wilsondorothy@example.org,Abuja,2022-03-19 00:49:05
+CUST00897,Amber Butler,corporate,+2349045351739,lee77@example.net,Ibadan,1669887987000
+CUST00898,Thomas Patrick,INDIVIDUAL,08153014471,,Abuja,16/06/2022
+CUST00899,Paul Munoz,individual,0911 361 0435,hamiltonandrew@example.com,Lagos State,27/08/2021
+CUST00900,Matthew Stevens,INDIVIDUAL,09057146562,vmelton@example.net,LAGOS,1729382597000
+CUST00901,Robert Jensen,individual,+2347018791292,,Ibadan,09/01/2024
+CUST02101,ROBERT JENSEN,individual,+2347018791292,,Lagos State,1679972801000
+CUST00902,Chad Lee,insurance,+2349166528833,n/a,Lagos,18/10/2020
+CUST00903,Chelsea Johnson,individual,0905 327 4663,n/a,Abeokuta,1727877936000
+CUST00904,Marie Graham,insurance,0907 748 0448,christophercarrillo@example.org,Lag,10/09/2024
+CUST00905,Bruce Barrera,individual,0807 669 9729,emaynard@example.org,Abuja,1719395129000
+CUST00906,Christina Hudson,corporate,+2348116379551,awilliams@example.org,Abuja,2024-05-02 10:50:17
+CUST00907,Sarah Mclaughlin,fleet,07087603784,benjamin67@example.net,Lagos,1729699083000
+CUST00908,Antonio Smith,individual,09067325182,angela46@example.com,Abeokuta,28/08/2021
+CUST00909,Todd Reed DDS,INDIVIDUAL,0816 810 4261,martinjessica@example.com,Lagos State,03/08/2023
+CUST00910,Jordan Matthews,INDIVIDUAL,0917 083 1313,sandra72@example.com,Lagos,1703522101000
+CUST00911,Sandra Nunez,corporate,+2348087422596,laura29@example.org,Lag,1674554154000
+CUST00912,Angelica Webb,individual,0916 821 3514,jamesobrien@example.org,Ibadan,2024-03-14 08:26:14
+CUST00913,Katherine Young,fleet,08042262445,kiddmichael@example.com,Abuja,13/09/2023
+CUST00914,Carrie Villarreal,fleet,07095084307,romanmatthew@example.org,Abuja,04/08/2022
+CUST00915,Danny Scott,individual,08190696029,kristen08@example.com,LAGOS,2021-12-12 15:04:18
+CUST02115,DANNY SCOTT,individual,08190696029,kristen08@example.com,Lag,17/01/2025
+CUST00916,Ashley Williams,individual,+2349085138440,wlloyd@example.org,LAGOS,2021-07-24 22:15:52
+CUST00917,Lisa Garrison,INDIVIDUAL,+2347044681437,colonbobby@example.org,Abeokuta,2022-01-30 22:16:12
+CUST00918,Shelby Bartlett,individual,09012672106,jessicaerickson@example.net,Lag,1732518438000
+CUST00919,Annette Holland,individual,+2347064627534,lori13@example.com,Lagos State,1710334619000
+CUST00920,Adriana Davenport,individual,0802 502 3307,gpeterson@example.org,Ibadan,1621608814000
+CUST00921,Mike Perry,INDIVIDUAL,+2349143797105,edwardmolina@example.com,Ibadan,2022-08-08 20:52:44
+CUST00922,Jeffrey Hardin,INDIVIDUAL,0815 419 6006,hcrane@example.net,Lagos State,2023-09-27 22:14:49
+CUST00923,Jessica Carrillo,fleet,+2348038737174,millerleroy@example.org,Abuja,1715249413000
+CUST02123,JESSICA CARRILLO,individual,+2348038737174,millerleroy@example.org,Abeokuta,2021-03-08 21:48:22
+CUST00924,Andrew Nielsen,INDIVIDUAL,+2348183248658,rachelbrown@example.net,Lag,2025-01-30 19:52:43
+CUST00925,Jennifer Blackwell,insurance,08151362065,jennifer55@example.org,Lagos,1673835694000
+CUST00926,Lisa Thomas,fleet,+2347042168745,ngriffin@example.net,Abeokuta,1717416099000
+CUST00927,Stacy Harrington,corporate,07081794497,trowe@example.org,Lagos,22/12/2020
+CUST00928,Jean Higgins,INDIVIDUAL,08150384524,abigailfernandez@example.org,Lag,2021-06-14 07:31:26
+CUST00929,Emily Peterson,corporate,0806 890 0892,andrewzamora@example.net,Abuja,2022-11-11 15:43:59
+CUST00930,Raymond Barber,fleet,+2347075993764,dennismckenzie@example.com,Abeokuta,23/12/2024
+CUST00931,Anthony Curtis,individual,0703 152 0919,westashley@example.org,Lag,07/07/2024
+CUST00932,David Reese,individual,+2349153858104,michaelmitchell@example.net,Abeokuta,1752479654000
+CUST00933,Michelle Stone,fleet,09096046825,,Lag,1665202589000
+CUST00934,Jose Lee,INDIVIDUAL,0804 350 1223,shawn26@example.com,Abuja,1620726548000
+CUST00935,Jeffery Anderson,INDIVIDUAL,+2348170597948,seanwood@example.net,Lag,2024-02-02 05:53:17
+CUST00936,Kelly Foster,INDIVIDUAL,08147822197,n/a,Lagos State,27/11/2022
+CUST00937,Mallory Barajas,insurance,09140130153,adennis@example.org,Abeokuta,1637480256000
+CUST00938,Kari Ellis,INDIVIDUAL,07072065617,bensonstanley@example.org,Lagos,30/12/2021
+CUST00939,Jaclyn Crane,INDIVIDUAL,09144917786,n/a,Ibadan,2024-02-20 11:18:02
+CUST02139,JACLYN CRANE,individual,09144917786,n/a,Abuja,07/08/2021
+CUST00940,Kenneth Williams,INDIVIDUAL,09025906458,davidtorres@example.com,Abuja,30/03/2023
+CUST00941,Alfred Thomas,INDIVIDUAL,09061281039,twilliams@example.com,Ibadan,2022-06-30 17:18:50
+CUST00942,Patrick Smith,INDIVIDUAL,+2348135415894,carlos06@example.com,Lagos,15/07/2025
+CUST00943,Jesse Morgan,fleet,+2348092903638,ualvarez@example.net,Ibadan,1634379830000
+CUST00944,Kathy Murray,corporate,+2347011385159,n/a,Abeokuta,2024-06-27 19:33:43
+CUST00945,Brittany Luna,individual,+2349090154282,notanemail,Lagos,03/06/2021
+CUST00946,Mary Ortiz,insurance,0905 755 3566,rachelmorgan@example.org,Abeokuta,1717671754000
+CUST00947,Maria Cline,fleet,0704 404 5250,armstronglaura@example.net,Lagos State,1681634797000
+CUST00948,Becky Hansen,INDIVIDUAL,0911 551 9702,stephanieweaver@example.org,Ibadan,06/07/2025
+CUST00949,Nicole Shaw,insurance,09027705940,martinezsharon@example.org,Lagos State,2020-10-27 21:10:06
+CUST00950,Daniel Gallegos,fleet,08115927344,imiller@example.net,Abeokuta,22/05/2023
+CUST00951,Andrew Atkins,fleet,0814 532 8305,morganhenry@example.org,Ibadan,25/02/2025
+CUST00952,David Wilson,INDIVIDUAL,0805 235 1453,weaverjustin@example.org,Ibadan,1667332517000
+CUST00953,Brittany Farley,INDIVIDUAL,09017143361,,Lagos,06/02/2022
+CUST00954,Tyrone White,corporate,09068576625,evanscorey@example.org,Lagos,04/03/2024
+CUST00955,Deanna David,INDIVIDUAL,+2349175122376,williamsjohn@example.net,Lagos,24/08/2025
+CUST00956,Jordan Gordon,fleet,08134247098,adamslucas@example.net,Ibadan,1708006379000
+CUST00957,Allen Schultz,INDIVIDUAL,0911 055 3745,adamstabitha@example.net,Lagos State,2021-07-11 07:29:10
+CUST00958,Justin Glover,individual,+2349022657432,notanemail,Lagos State,03/04/2023
+CUST00959,Jill Mathis,corporate,07053424580,n/a,Lagos State,1733066416000
+CUST00960,Walter Brooks,individual,09198316111,kimberlymedina@example.com,Abeokuta,1747751569000
+CUST00961,Aaron Marshall,individual,08186391152,denise20@example.org,Abuja,1728164912000
+CUST00962,David Frazier,corporate,0701 949 2426,megan39@example.net,Lagos,20/01/2023
+CUST00963,Patrick Hart,INDIVIDUAL,08063541768,,Lagos State,21/03/2023
+CUST00964,Michael Rivas,corporate,+2348026186924,natalie39@example.net,Abeokuta,15/05/2023
+CUST00965,Theresa Reid,fleet,+2349127620998,qnelson@example.com,Ibadan,2023-07-27 08:09:35
+CUST00966,Tyler Murphy,corporate,+2349073946652,deborahsmith@example.com,Lagos,12/09/2020
+CUST00967,Megan Gutierrez,individual,+2349135012256,ifarmer@example.org,Lagos,1619538975000
+CUST00968,Stephanie Cabrera,INDIVIDUAL,0904 009 5669,wchambers@example.com,Lagos State,1694819720000
+CUST00969,Ryan Cain,individual,+2349121270276,martinezmitchell@example.org,Abuja,11/06/2024
+CUST00970,Patrick Chang,fleet,08050320166,james94@example.net,Ibadan,2022-07-18 00:21:41
+CUST00971,Johnny Cox,corporate,07078909330,trevor93@example.org,Lagos,01/05/2022
+CUST00972,Miss Ashley Ramirez,individual,+2349144008132,mjackson@example.net,Abuja,1750584852000
+CUST02172,MISS ASHLEY RAMIREZ,individual,+2349144008132,mjackson@example.net,Lagos State,2025-06-20 18:18:19
+CUST00973,Kevin Reese,fleet,08062741841,notanemail,Lag,1632935998000
+CUST00974,Kelly Perez,INDIVIDUAL,+2349093726413,james08@example.net,LAGOS,2022-10-24 17:33:25
+CUST02174,KELLY PEREZ,individual,+2349093726413,james08@example.net,Lag,1749084010000
+CUST00975,April Simmons,individual,0706 822 3505,n/a,Lagos,2021-02-07 01:33:56
+CUST00976,Erica Richard,insurance,0906 437 0473,rhill@example.net,Abeokuta,18/08/2024
+CUST00977,Joseph Williams DDS,corporate,0915 841 6197,ramirezrobert@example.com,Abuja,09/05/2023
+CUST00978,Cory Miller,INDIVIDUAL,08011862394,,Abuja,2025-07-11 12:21:22
+CUST00979,Wanda Perez,insurance,08097206603,prosario@example.org,LAGOS,2022-01-22 23:01:49
+CUST00980,Arthur Garrett,individual,+2349029886456,castillolindsey@example.net,LAGOS,2023-07-04 13:47:55
+CUST00981,Danielle Wells,insurance,+2349075101884,n/a,LAGOS,2023-07-24 18:25:54
+CUST00982,Samantha Stone,corporate,+2349016834659,notanemail,Lagos State,04/09/2022
+CUST00983,Patricia Harvey,corporate,+2349184397493,n/a,Ibadan,1624410443000
+CUST00984,Lauren Miller,corporate,0904 112 5867,,Ibadan,06/03/2021
+CUST00985,Jamie Wu,individual,+2348197013391,pattonbryan@example.com,Lagos State,1613439888000
+CUST00986,Mark Jones,INDIVIDUAL,0817 017 3215,hansenkenneth@example.com,Lag,1706558600000
+CUST00987,Paul Hall,insurance,08168802221,chavezsteven@example.com,Abeokuta,10/07/2021
+CUST00988,Timothy Logan,corporate,+2349027603804,lholmes@example.org,Lagos State,1627721821000
+CUST00989,Kurt Jones,fleet,08173394367,rebeccamartinez@example.net,Abeokuta,1667528899000
+CUST00990,John Oliver,insurance,09027327046,johnrobles@example.org,Lagos State,2021-09-30 14:57:44
+CUST00991,Jeffrey Moyer,individual,09050755467,larry82@example.org,Lagos,27/08/2024
+CUST00992,Grant Wood,insurance,08131287665,holmesdiane@example.org,Lagos,2021-02-24 00:18:32
+CUST00993,Robert Hansen,corporate,07092887892,,Lag,15/02/2021
+CUST00994,Craig Gonzalez,insurance,+2347084762274,kristenpeterson@example.net,Ibadan,1726430495000
+CUST00995,Vicki Greene,individual,+2347068764105,melissa95@example.net,Lagos,1679164366000
+CUST00996,Christopher Gibson,INDIVIDUAL,07085493830,crawfordsamantha@example.net,Abeokuta,2022-07-23 20:21:04
+CUST00997,Julie Lewis,corporate,0813 107 6551,vnavarro@example.net,Abuja,1699640679000
+CUST00998,Clinton Fritz,INDIVIDUAL,0703 070 9222,alejandro50@example.net,Lagos,2021-08-22 19:31:54
+CUST00999,Jeremiah Welch,corporate,09010884169,bradley03@example.org,Lag,29/01/2023
+CUST01000,Stephen Higgins,corporate,+2347045704013,melanie32@example.org,Lag,1604501845000
+CUST01001,Dennis Garcia,INDIVIDUAL,+2348081088456,nicholascobb@example.org,Abuja,17/07/2023
+CUST01002,Elizabeth Allen,fleet,0907 157 2793,donna89@example.com,Lagos,21/03/2021
+CUST01003,Stephen Anderson,corporate,07079437366,n/a,Abuja,2022-04-11 03:03:46
+CUST01004,James Brooks,INDIVIDUAL,0901 497 8636,prowland@example.org,Ibadan,2025-08-28 16:35:11
+CUST01005,Joseph Clarke,insurance,+2349149691460,john42@example.net,Abuja,18/08/2025
+CUST01006,Christine Miller,insurance,08156192019,ngibbs@example.org,Ibadan,2022-02-01 03:08:42
+CUST01007,Nicole Newman,insurance,09096420023,victor72@example.com,Abuja,1699094927000
+CUST01008,Karen Sosa,fleet,+2348197074691,zadams@example.net,Lagos,2025-08-18 07:17:44
+CUST01009,Christine Jacobson,fleet,0902 691 2191,zroy@example.org,LAGOS,2023-04-07 15:20:14
+CUST01010,James Moore,INDIVIDUAL,+2348179972515,jonathan12@example.org,Lagos,2023-03-04 14:46:12
+CUST01011,Gregory Silva,fleet,+2349189524487,vhunt@example.com,Abeokuta,01/07/2024
+CUST01012,Jason Ballard,insurance,+2347018045780,joshua02@example.com,Lag,2022-08-26 07:04:16
+CUST02212,JASON BALLARD,individual,+2347018045780,joshua02@example.com,Lagos,03/12/2022
+CUST01013,Heather Miller,INDIVIDUAL,0818 683 0962,n/a,Abuja,1733424117000
+CUST01014,Maria Hartman,insurance,0919 425 4420,coreyjones@example.org,LAGOS,22/04/2025
+CUST01015,Craig Murphy,INDIVIDUAL,0912 878 6655,julie43@example.net,Lagos,01/11/2021
+CUST01016,Dr. Nancy Gaines MD,corporate,+2348058488507,notanemail,Abuja,18/03/2023
+CUST01017,Gregory Shea,corporate,07067027331,wunderwood@example.net,Lagos,05/10/2020
+CUST01018,Jose Juarez,corporate,0908 895 2163,michelleperez@example.net,Abuja,12/06/2022
+CUST01019,Jose Hartman,corporate,0906 906 6531,dsharp@example.com,Abeokuta,23/05/2021
+CUST01020,Cole Carrillo,corporate,08077885433,cclark@example.net,LAGOS,1606813623000
+CUST01021,Kenneth Anderson,corporate,0912 584 5497,porterdonna@example.com,Lagos,1689949361000
+CUST01022,Jeffery Goodwin,corporate,09159570909,mark09@example.org,Lagos,2021-11-05 05:02:00
+CUST01023,Troy Rivera,fleet,0811 540 6577,nbaird@example.com,Lag,15/03/2021
+CUST01024,Chelsea Rodriguez,corporate,09013755114,notanemail,Lagos,04/07/2025
+CUST01025,Margaret Torres,individual,0803 457 2196,damontran@example.org,Ibadan,26/10/2024
+CUST02225,Margaret  Torres,individual,0803 457 2196,damontran@example.org,Lagos State,1605937030000
+CUST01026,Benjamin Mccarty,corporate,+2348185935555,jamie48@example.org,Lagos State,1720776878000
+CUST01027,Joseph Jackson,corporate,0802 859 2146,hmyers@example.org,Abeokuta,23/03/2025
+CUST01028,Patrick Price,corporate,0812 198 7653,davidharris@example.com,Lagos State,2024-09-13 00:33:35
+CUST01029,Kenneth Collins,corporate,08182611046,waynecohen@example.com,Abeokuta,18/05/2022
+CUST01030,Charles Brown,fleet,0801 332 9148,pjacobs@example.net,Ibadan,1687015152000
+CUST01031,Sherry Stevens,insurance,09121428912,mclaughlinkeith@example.com,Ibadan,2023-08-12 08:19:23
+CUST01032,Michelle Evans,individual,+2349135420283,robertwhite@example.net,Lagos,1714713706000
+CUST01033,Thomas White,INDIVIDUAL,+2348012546591,longsonya@example.org,Abuja,1641127231000
+CUST01034,Mark Carter,insurance,09169623470,wolfejennifer@example.org,Lag,10/11/2024
+CUST01035,Philip Martinez,corporate,+2349013122340,charles18@example.com,Lagos,1708816947000
+CUST01036,David Hunter,insurance,08122217180,ojohnson@example.net,LAGOS,04/08/2024
+CUST01037,Patrick Foley,corporate,08122029742,qjohnson@example.org,Abeokuta,2021-10-27 23:07:27
+CUST02237,PATRICK FOLEY,individual,08122029742,qjohnson@example.org,LAGOS,2023-06-12 05:30:41
+CUST01038,Julie Murray,corporate,+2347050000149,,Lag,13/05/2021
+CUST01039,Dana Dodson,insurance,07016962963,thomasramirez@example.org,Ibadan,2022-02-10 22:26:24
+CUST01040,Lisa Thompson,fleet,09161680358,nicholspeter@example.org,Lagos State,1601738349000
+CUST01041,Brittany Howard,individual,+2349013879756,jenniferstafford@example.net,Lag,1656755775000
+CUST01042,Anthony Walters,INDIVIDUAL,0704 305 9986,myerskyle@example.org,Lag,1599981471000
+CUST01043,James Harris,INDIVIDUAL,0709 533 5496,nicholasallen@example.org,Lag,1603034310000
+CUST01044,William Rogers,insurance,+2348082146810,erinbrown@example.org,Lagos State,2022-02-02 12:39:01
+CUST02244,William  Rogers,individual,+2348082146810,erinbrown@example.org,Abuja,1643574029000
+CUST01045,Jose Ochoa,fleet,08197652074,n/a,Ibadan,29/05/2023
+CUST01046,Chelsey Clark,insurance,0905 716 6514,hmcmillan@example.org,Lag,2022-06-25 02:59:12
+CUST01047,Frank Smith,corporate,09185575530,alexander37@example.org,Abeokuta,2021-03-23 00:55:34
+CUST01048,Diana Hanson,insurance,+2349147508257,jonesjeffery@example.com,Abuja,29/11/2024
+CUST01049,Mrs. Kimberly Mooney,corporate,+2348195251058,johnathandavis@example.com,Lag,2023-12-20 03:56:03
+CUST01050,Valerie Benson,insurance,08155852776,gregory57@example.org,Lag,2023-07-07 01:39:05
+CUST01051,Thomas Cole,individual,08096764149,wesleybush@example.org,Lagos,1661168695000
+CUST01052,Peter Martinez,individual,+2349175629343,joanntodd@example.net,Ibadan,2021-05-03 14:06:58
+CUST01053,James Phillips,corporate,+2349026564560,nicholasmay@example.org,Abuja,1717840868000
+CUST01054,Erin Ramirez,INDIVIDUAL,08011131640,meyertiffany@example.net,Lagos State,2023-02-12 03:09:59
+CUST01055,Crystal Quinn,fleet,0704 773 3231,john80@example.net,LAGOS,2022-10-10 11:49:19
+CUST01056,Melissa Walker,fleet,08139681939,lboyd@example.com,Lagos,17/09/2020
+CUST01057,John Mckay,corporate,09138063091,waltersdonald@example.org,Lagos,24/09/2021
+CUST01058,Kevin Guerra,insurance,0903 288 1048,joelmiller@example.net,Abeokuta,1724108312000
+CUST01059,Nathan Sanchez,INDIVIDUAL,0801 877 2554,,Lag,1646094167000
+CUST01060,Elizabeth Ray,individual,09146819677,josephharrington@example.org,Abeokuta,1695253563000
+CUST01061,Christopher Alexander,individual,+2348185177493,n/a,Abuja,16/12/2024
+CUST01062,Jessica Moore,corporate,09046780435,ysmith@example.com,Lagos State,15/05/2021
+CUST01063,Tammy Larson,corporate,07040138350,angelathompson@example.com,Ibadan,09/08/2024
+CUST01064,Douglas Hart,individual,+2349036119862,notanemail,Abeokuta,2024-10-01 20:44:52
+CUST01065,Chad Harrison,fleet,09019991216,sabrinasmith@example.net,Lag,2023-11-05 17:04:49
+CUST01066,Timothy Bentley DVM,individual,+2347013741017,patrick49@example.org,Ibadan,1708465704000
+CUST01067,Wendy Martinez,fleet,08143172390,jamesgraham@example.com,Abuja,2023-08-17 22:18:22
+CUST01068,Katherine Barker,insurance,09141775196,curtissara@example.net,Lagos State,2022-10-05 16:31:36
+CUST01069,Andrew Li,individual,09126753912,terrydeanna@example.com,Lagos State,15/07/2024
+CUST01070,Brittany Wright,corporate,07027117564,alexanderwise@example.net,Lagos,07/12/2023
+CUST01071,Kevin Santana,insurance,09018830219,nancymartin@example.com,Lagos,24/10/2022
+CUST01072,Kathryn Ferguson,INDIVIDUAL,0902 286 2118,uwillis@example.com,Abuja,1622585805000
+CUST01073,Kenneth Salinas,corporate,+2349111423586,josephclark@example.net,Ibadan,1705561940000
+CUST01074,Abigail Jackson,INDIVIDUAL,0707 094 5151,esmith@example.net,Lagos,2024-03-20 02:46:28
+CUST02274,ABIGAIL JACKSON,individual,0707 094 5151,esmith@example.net,Ibadan,2025-02-15 22:23:54
+CUST01075,Dylan Jordan,fleet,0912 690 8967,nicholaspadilla@example.org,Lagos State,19/10/2024
+CUST01076,Travis Hayes,individual,09034954217,,LAGOS,21/06/2022
+CUST01077,Anthony White,insurance,+2349197470361,jordanbarrera@example.com,Abuja,2024-05-30 05:38:22
+CUST01078,Lori Oneill,individual,+2348190977513,christophermiller@example.org,Ibadan,1673025411000
+CUST01079,Allen Young,insurance,08017693044,gchambers@example.org,Abuja,2021-03-07 15:05:44
+CUST01080,Tyler Ortega,individual,0803 689 3461,davisalexa@example.org,Lag,2023-11-10 02:04:04
+CUST01081,Victoria Juarez,insurance,0909 049 8733,vkennedy@example.net,Ibadan,25/04/2024
+CUST01082,Michael Cooper,corporate,09054106502,,LAGOS,2023-05-06 07:11:07
+CUST01083,Teresa Ortega,corporate,0807 261 7503,wbishop@example.com,Abeokuta,07/07/2021
+CUST01084,Seth Morales,individual,+2349037557095,anthonymartinez@example.net,Lag,2023-01-15 05:00:15
+CUST02284,Seth  Morales,individual,+2349037557095,anthonymartinez@example.net,Lagos,2022-10-11 02:42:17
+CUST01085,Luke Hopkins,fleet,08169110577,qrobertson@example.org,Lagos,2020-09-08 15:43:05
+CUST01086,Dr. Robin Smith,INDIVIDUAL,08133373562,morgan57@example.org,Lag,1728795704000
+CUST01087,Lonnie Miller,individual,08012884611,ecrosby@example.net,Lagos,1625694900000
+CUST01088,Elizabeth Lee,INDIVIDUAL,07055417034,mollywalter@example.net,Lag,14/12/2024
+CUST01089,Jonathan Miller,individual,+2349193644995,cjackson@example.org,Lagos,2024-10-05 23:29:16
+CUST01090,Cynthia Lewis,fleet,08035453201,garciavictoria@example.org,Lag,1641745452000
+CUST01091,Erin Reyes,insurance,0801 620 0213,jeffrey47@example.net,Lag,2021-09-16 09:15:19
+CUST01092,Tammy Schultz,insurance,+2347094484575,sdavis@example.com,Ibadan,26/07/2022
+CUST01093,Pamela Burke,INDIVIDUAL,0707 317 1894,nicholas68@example.com,Ibadan,24/08/2022
+CUST01094,Brian Miller,INDIVIDUAL,+2349160233144,petersonbrittany@example.org,Lag,1629896050000
+CUST01095,Bethany Edwards,corporate,+2349076409861,aray@example.com,Abeokuta,1615344734000
+CUST01096,Cheryl Price,INDIVIDUAL,08039464318,xflores@example.net,Lagos State,2021-09-26 08:33:17
+CUST01097,Lindsay Walker,fleet,09086688035,dsmith@example.com,Lag,1637575444000
+CUST01098,Elizabeth Robinson,INDIVIDUAL,+2347049600674,shernandez@example.org,Ibadan,2020-12-14 15:15:33
+CUST01099,Ellen Mooney,corporate,+2349155147351,hillmelanie@example.net,Lagos State,23/09/2024
+CUST01100,Cindy Carter,INDIVIDUAL,+2348146644052,n/a,Lag,1699854576000
+CUST02300,CINDY CARTER,individual,+2348146644052,n/a,Lag,1614520005000
+CUST01101,Mrs. Samantha Clark,INDIVIDUAL,0918 337 0374,n/a,Lagos,2022-07-30 04:57:35
+CUST02301,Mrs.  Samantha  Clark,individual,0918 337 0374,n/a,LAGOS,09/02/2021
+CUST01102,Patty Gates,fleet,+2348054190018,qevans@example.org,LAGOS,1604521654000
+CUST01103,Gail Gregory,fleet,+2348082897088,n/a,Abuja,17/08/2023
+CUST01104,Jeanne Rose,individual,0906 445 9981,justin38@example.com,Lagos State,1624853046000
+CUST01105,Paul Carpenter,INDIVIDUAL,08063352256,hornjenna@example.com,Lagos State,2022-01-20 12:20:22
+CUST01106,Jessica Olson,fleet,0917 291 2993,jasonbrock@example.org,Abuja,2020-09-27 07:21:53
+CUST01107,Scott Garcia,corporate,0806 755 1618,nicholasmcgrath@example.net,Lagos State,1643889617000
+CUST02307,Scott  Garcia,individual,0806 755 1618,nicholasmcgrath@example.net,Abuja,2021-02-20 22:46:37
+CUST01108,William White,fleet,+2348111299382,wilsonzachary@example.com,Lag,2024-05-08 18:27:57
+CUST01109,Lori Powell,individual,+2349082155988,wilsonrandy@example.com,Ibadan,2022-02-16 19:57:30
+CUST01110,Jaime Holt,insurance,0805 432 5475,stricklandmichelle@example.net,Ibadan,1701302058000
+CUST01111,Matthew Richardson,INDIVIDUAL,+2349037407879,n/a,Lagos State,2021-09-06 18:16:21
+CUST01112,Bryan May,insurance,+2349095765571,,LAGOS,2024-12-30 15:59:54
+CUST01113,Kevin Archer,individual,09175580570,vhill@example.org,Lagos State,15/03/2022
+CUST01114,Zachary Park,fleet,0819 852 5972,,Ibadan,2023-03-14 21:58:43
+CUST01115,Ariana Brown,INDIVIDUAL,09062493261,richardhaynes@example.com,Ibadan,23/05/2025
+CUST01116,Rachel Moreno,fleet,07062209742,,Lagos State,1615894148000
+CUST01117,Lauren Reeves,insurance,0809 102 8510,molinajared@example.net,LAGOS,1630223500000
+CUST01118,Kyle White,corporate,09046969062,,Lagos,19/05/2025
+CUST01119,Ernest Williams,corporate,+2348080579265,denisemiller@example.com,Lagos State,16/12/2020
+CUST01120,Caleb Evans,corporate,0704 864 2865,rodneylandry@example.org,Lag,1665391502000
+CUST01121,Tracy Stone,INDIVIDUAL,0816 249 1260,donna72@example.net,Lagos State,2024-10-31 16:27:45
+CUST01122,Kelly Andersen,INDIVIDUAL,+2349167992341,catherine83@example.net,Abeokuta,1625306583000
+CUST01123,Amanda Johnson,insurance,07042171352,kevinwall@example.org,Lag,1746924354000
+CUST01124,Ian Anderson,insurance,+2348076234781,qjones@example.com,Lagos,29/11/2023
+CUST02324,Ian  Anderson,individual,+2348076234781,qjones@example.com,Abuja,19/01/2022
+CUST01125,Bradley King,insurance,09070523603,jbentley@example.net,Lagos,25/05/2022
+CUST02325,BRADLEY KING,individual,09070523603,jbentley@example.net,Abeokuta,1617669303000
+CUST01126,Debra Schultz,INDIVIDUAL,+2349061157834,jenniferelliott@example.net,Lagos State,2025-01-04 21:11:21
+CUST02326,Debra  Schultz,individual,+2349061157834,jenniferelliott@example.net,LAGOS,21/01/2022
+CUST01127,Christian Riddle,INDIVIDUAL,+2349075063283,notanemail,Abeokuta,08/05/2024
+CUST01128,Victor Wright,insurance,08131658249,david18@example.com,Lagos,2021-03-22 20:40:54
+CUST01129,Brandon Blankenship,fleet,09162458932,,LAGOS,26/12/2022
+CUST01130,Robert Hill,corporate,0801 462 3108,bennetttanya@example.com,Abeokuta,2021-07-22 03:57:57
+CUST01131,Becky Fox,individual,0919 603 5199,brianna71@example.net,Lagos State,1692386209000
+CUST01132,Sharon Arnold,INDIVIDUAL,07090289763,n/a,LAGOS,03/07/2021
+CUST01133,Carolyn Potts,individual,08022265679,zwhite@example.net,Lag,2025-03-08 19:29:20
+CUST01134,Sonia Powell,INDIVIDUAL,07039604115,jonathonparks@example.net,Abeokuta,2021-12-26 00:39:55
+CUST02334,SONIA POWELL,individual,07039604115,jonathonparks@example.net,Abuja,26/09/2021
+CUST01135,Keith Adams,INDIVIDUAL,0818 543 7626,jasmine39@example.com,Ibadan,22/07/2024
+CUST01136,William Lindsey,INDIVIDUAL,07041193292,n/a,Lagos,07/12/2024
+CUST01137,Troy Meyer,individual,07062235749,kevinhodge@example.com,Abeokuta,13/02/2024
+CUST01138,Sarah Walters,corporate,08115897385,blairshirley@example.org,Lag,1753164423000
+CUST01139,Patrick Spencer,individual,0708 196 5066,astokes@example.com,Ibadan,27/12/2024
+CUST01140,Breanna Jimenez,fleet,+2349027841755,sullivanchristina@example.net,Abuja,1600685985000
+CUST01141,Michele Brady,corporate,0811 236 8781,virginiaguerrero@example.net,Lagos State,1610102470000
+CUST01142,Traci Craig,individual,0807 756 7894,gregoryrichardson@example.org,LAGOS,2025-01-11 21:29:12
+CUST01143,Anthony Simpson,INDIVIDUAL,07051452961,nathanielwilson@example.net,Ibadan,2022-10-14 22:14:24
+CUST02343,Anthony  Simpson,individual,07051452961,nathanielwilson@example.net,Lag,2025-03-31 22:04:03
+CUST01144,Shannon Roberts,INDIVIDUAL,08060432035,ncarter@example.org,Abeokuta,1751426369000
+CUST01145,Thomas Hickman,individual,09054116005,wallspatricia@example.com,Ibadan,24/02/2021
+CUST01146,Luis Murphy,fleet,08113180065,daniel52@example.com,Lag,2023-09-05 10:14:30
+CUST01147,Jeffrey Gonzalez,INDIVIDUAL,07099255596,robertgentry@example.org,Ibadan,26/12/2021
+CUST01148,Danielle Ruiz,individual,0806 937 2673,n/a,LAGOS,2023-11-05 20:55:55
+CUST01149,Jeffrey White,insurance,08037409946,notanemail,Abuja,2022-12-15 04:24:20
+CUST01150,Jeffrey Franco,INDIVIDUAL,0706 720 8939,donaldburgess@example.org,Abeokuta,2023-09-20 01:01:41
+CUST01151,Michelle Rodriguez,insurance,08091315976,billy66@example.net,Lagos State,1687638472000
+CUST01152,Caitlin Gonzalez,INDIVIDUAL,+2349020739561,rmoyer@example.org,Lagos State,30/03/2024
+CUST01153,Jon Maldonado Jr.,corporate,09168174055,vshaw@example.com,Lagos,12/10/2021
+CUST01154,Brian Smith,insurance,0705 029 6396,mauricesmith@example.net,Abeokuta,2022-09-03 17:28:53
+CUST01155,Ronald Jordan,insurance,+2349051050127,hamiltonkeith@example.com,Ibadan,13/05/2021
+CUST02355,Ronald  Jordan,individual,+2349051050127,hamiltonkeith@example.com,Lagos State,2024-04-23 15:22:12
+CUST01156,Christian Dixon,fleet,08035451146,notanemail,Lagos State,13/10/2022
+CUST01157,Brian Baker,insurance,+2349060082660,elizabethpatterson@example.com,Lagos,16/07/2021
+CUST01158,Kathryn White,corporate,0706 165 0472,jeromeanderson@example.org,Lag,1672246795000
+CUST01159,Tanya Simmons DDS,individual,0909 522 5538,linomar@example.net,Abeokuta,09/04/2023
+CUST01160,Veronica Walker,individual,+2348042528051,n/a,Abeokuta,1713102889000
+CUST01161,Jordan Schneider,INDIVIDUAL,+2348191260195,daniel54@example.com,Lag,2024-03-20 20:16:01
+CUST01162,Steven White,corporate,08011655896,williamsjulie@example.org,Lagos State,1675321813000
+CUST01163,Terry Garcia,INDIVIDUAL,07079596863,johnnyhenry@example.com,Abuja,02/04/2023
+CUST01164,Michael Vega,corporate,0817 719 5678,markfigueroa@example.com,Ibadan,28/02/2025
+CUST01165,Cynthia Hill,fleet,0702 466 6517,gmiller@example.org,Abuja,2021-09-07 20:39:57
+CUST01166,Warren Henson,INDIVIDUAL,0806 341 4658,jamesgriffin@example.org,Abuja,19/04/2021
+CUST02366,Warren  Henson,individual,0806 341 4658,jamesgriffin@example.org,Abeokuta,24/04/2025
+CUST01167,Elizabeth Wells,corporate,0916 594 7629,amandahernandez@example.org,LAGOS,2022-04-17 13:05:06
+CUST01168,Michael Snow,individual,+2348036577865,patricia71@example.com,Lagos State,1616904384000
+CUST01169,Mr. Troy Gibbs,INDIVIDUAL,08036969824,carolhorton@example.org,Lag,15/02/2023
+CUST01170,Keith Bauer,fleet,0912 465 5964,joysanders@example.net,Lagos,11/03/2025
+CUST01171,Valerie Martin,corporate,07055922853,yhart@example.com,Lagos State,1671611289000
+CUST01172,Aaron Armstrong,individual,+2347018194860,suarezkrystal@example.com,Abeokuta,1733975173000
+CUST01173,Kelly Turner,individual,07022997893,kennethadams@example.org,Lagos State,1644664371000
+CUST01174,Joseph Carter,insurance,+2348175219904,sheriramirez@example.org,Lagos State,18/12/2022
+CUST01175,Amber Whitney,corporate,08152308622,amandasmith@example.com,Lagos State,1697811277000
+CUST02375,Amber  Whitney,individual,08152308622,amandasmith@example.com,Lag,2023-06-04 07:28:58
+CUST01176,Michael Dunn,INDIVIDUAL,0707 132 6664,rickycarr@example.com,Lagos,1614104157000
+CUST01177,Alexandra Kelly,INDIVIDUAL,0914 750 9496,gregory08@example.net,Lag,16/08/2025
+CUST01178,Patrick Reyes,individual,+2349079110587,molly98@example.org,Abeokuta,03/06/2024
+CUST02378,Patrick  Reyes,individual,+2349079110587,molly98@example.org,Lagos,1657956364000
+CUST01179,Damon Soto,corporate,08169633763,omoore@example.net,Abeokuta,1715204123000
+CUST01180,Steven Davis,individual,+2348167433950,stephenochoa@example.org,Abeokuta,08/04/2022
+CUST01181,Terri White,insurance,0802 921 4803,andrew22@example.com,Lagos,2022-04-05 13:21:31
+CUST01182,Benjamin Sanchez,corporate,0705 044 6284,hgarcia@example.org,LAGOS,05/10/2020
+CUST01183,Jamie Smith,INDIVIDUAL,0909 893 8318,hinesdeanna@example.org,LAGOS,1634210566000
+CUST01184,Bradley Thomas,corporate,0706 837 0404,n/a,Abuja,10/10/2020
+CUST01185,Alexandra Conner,individual,+2348199379971,melissa13@example.org,Abeokuta,2024-09-30 13:30:41
+CUST01186,Stephanie Ochoa,INDIVIDUAL,0902 213 8886,martin23@example.org,Ibadan,1744630790000
+CUST02386,Stephanie  Ochoa,individual,0902 213 8886,martin23@example.org,Abeokuta,1670527467000
+CUST01187,Barbara Bryan,corporate,0909 776 7609,stephenscurtis@example.com,Abuja,2021-11-13 14:22:53
+CUST01188,Danny Perez,insurance,07049054205,n/a,LAGOS,1702183100000
+CUST01189,Matthew Perez,corporate,09159356828,tmcdaniel@example.org,Ibadan,1730754704000
+CUST02389,Matthew  Perez,individual,09159356828,tmcdaniel@example.org,Ibadan,2022-02-07 17:38:05
+CUST01190,Courtney Huber MD,INDIVIDUAL,+2349066867849,gilbertdavid@example.org,Ibadan,1610368450000
+CUST01191,Cassandra Moreno,fleet,+2348024305720,n/a,LAGOS,16/03/2022
+CUST01192,Brittany Contreras,INDIVIDUAL,09071174364,colleen45@example.org,Abeokuta,1671503670000
+CUST01193,Mary Cantu,individual,+2347090380354,mccormickmichelle@example.org,Lag,1638082332000
+CUST01194,James Griffith,corporate,+2348076441201,hbriggs@example.net,Lagos,18/04/2024
+CUST01195,Diana Davis,INDIVIDUAL,0804 020 8616,huntercruz@example.com,Abuja,12/11/2024
+CUST01196,Michael Gutierrez,insurance,08198483078,devon36@example.com,Lagos State,02/05/2025
+CUST01197,Joseph Patel PhD,insurance,+2349056748995,tmiller@example.com,Abeokuta,22/02/2025
+CUST01198,Melissa Goodman,insurance,+2348083552661,n/a,Abuja,2021-05-28 00:14:35
+CUST01199,Aaron Mcknight,INDIVIDUAL,0817 140 8972,coxthomas@example.org,Lagos State,1628298884000
+CUST01200,Gregory Allison,INDIVIDUAL,08038154362,kenneththomas@example.net,Abeokuta,1711764611000
+CUST02400,GREGORY ALLISON,individual,08038154362,kenneththomas@example.net,Ibadan,2022-09-22 08:18:45

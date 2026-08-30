@@ -1,0 +1,13 @@
+service_type_code,description,category,standard_hours
+SVC-MIN,Minor service,routine,1.5
+SVC-MAJ,Major service,routine,4.0
+BRK-PAD,Brake pad replacement,brakes,1.5
+BRK-DSC,Brake disc replacement,brakes,2.5
+ENG-DIA,Engine diagnostics,engine,1.0
+ENG-OVH,Engine overhaul,engine,24.0
+SUS-SHK,Shock absorber replacement,suspension,3.0
+ELE-BAT,Battery replacement,electrical,0.5
+ELE-ALT,Alternator replacement,electrical,3.0
+AC-REG,AC regas,climate,1.0
+TYR-FIT,Tyre fitting,tyres,0.75
+BDY-PNT,Body panel respray,bodywork,8.0

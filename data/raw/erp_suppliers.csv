@@ -1,0 +1,26 @@
+supplier_id,supplier_name,contact_phone,contact_email,city,lead_time_days,payment_terms,is_active
+SUP0001,"Rodriguez, Figueroa and Sanchez",07013356886,jillrhodes@miller.com,Abeokuta,7,net 30,N
+SUP0002,Wagner Inc,08023756669,jennifermiles@robinson-lawrence.com,Abeokuta,7 days,NET30,TRUE
+SUP0003,Wolfe LLC,07013999315,eric51@james.com,Lagos,5,net 30,Y
+SUP0004,"Baker, Williams and Stevens",08097226012,dudleynicholas@carter.com,Abeokuta,7 days,COD,N
+SUP0005,"Lee, Jones and Stanley",09089089901,tracie31@ramirez-reid.com,Lag,3,net 30,TRUE
+SUP0006,Wood and Sons,08147295260,jacqueline19@jackson.biz,LAGOS,5,NET60,Y
+SUP0007,Mayo-Bowman,07060992979,gabriellecameron@perez.com,Lagos,7,NET60,1
+SUP0008,Adams-Clark,07071662963,jason76@ellis.net,Ibadan,3,COD,Y
+SUP0009,"Baker, Richards and Hurst",08194374605,icox@snyder.com,Ibadan,7,net 30,Y
+SUP0010,"Moore, Becker and Carlson",07098753260,djames@king.com,LAGOS,7,NET30,N
+SUP0011,"Dyer, Potter and Mack",07061019678,daniel62@smith-bowen.com,Lag,14,NET60,N
+SUP0012,"Gill, Romero and Rodriguez",08157683626,meagan89@hernandez.net,LAGOS,7,NET30,N
+SUP0013,"Sellers, George and Burns",08031931511,hickmannatasha@allen-allen.org,Lagos State,14,NET60,N
+SUP0014,Miller Group,08117507864,spenceamanda@anderson.net,LAGOS,3,NET60,TRUE
+SUP0015,Baker PLC,08118883684,ibrandt@vaughn.com,LAGOS,7 days,NET60,N
+SUP0016,Lam-Hayes,09063100814,jeffreymorgan@spencer.com,Abeokuta,14,net 30,1
+SUP0017,Jones Inc,08043101783,chad34@washington.org,Abeokuta,7 days,NET60,TRUE
+SUP0018,"Kennedy, Mueller and Aguirre",09058586340,clintonhopkins@henderson-owens.com,LAGOS,5,COD,Y
+SUP0019,"Valdez, Lucas and Brown",07024716857,lauren13@lee.com,LAGOS,5,COD,Y
+SUP0020,White-Ford,09061220073,ramosmichelle@garcia.com,Ibadan,14,NET60,Y
+SUP0021,House and Sons,07082070937,richardolson@barrera-martin.com,Abuja,7,NET60,Y
+SUP0022,Baker-Bowers,08168353204,smitchell@cowan.com,LAGOS,14,NET30,1
+SUP0023,Phillips Inc,08078139880,adkinsbrian@woods.com,Lagos,7,net 30,N
+SUP0024,"Miller, Lopez and Larson",08131682744,richarddavid@sanchez.biz,Ibadan,7 days,NET30,1
+SUP0025,"Silva, Mills and Donovan",09012614124,elizabethedwards@foster-powers.com,Lagos,7,NET60,N

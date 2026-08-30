@@ -1,0 +1,23 @@
+part_number,part_description,category,subcategory,unit_cost_ngn,unit_price_ngn,supplier_id,qty_on_hand,reorder_point,currency
+ BRK-PAD-TOY-001 ,Brake pad set front - Toyota,Brakes,Pads,"NGN18,500.00",29523.41,SUP0006,95,,NGN
+ BRK-PAD-HON-001 ,Brake pad set front - Honda,Brakes,Pads,"19,200.00",NGN 27248.70,SUP0005,46,23,NGN
+BRK-DSC-TOY-001,Brake disc front - Toyota,Brakes,Discs,"34,000.00",NGN 43277.45,SUP0017,133,15,NGN
+FLTOIL001,Engine oil filter - universal,Filters,Oil,4200.00,"NGN6,249.66",SUP0013,28,N/A,NGN
+FLT-AIR-001,Air filter - Toyota Corolla,Filters,Air,NGN 6800.00,"10,288.06",SUP0009,50,25,NGN
+ FLT-CAB-001 ,Cabin filter - universal,Filters,Cabin,"NGN5,400.00","8,200.85",SUP0015,78,9,USD
+OIL-5W30-4L,Engine oil 5W-30 fully synthetic 4L,Fluids,Oil,28500.00,"41,754.03",SUP0005,87,9,NGN
+oil-10w40-4l,Engine oil 10W-40 semi synthetic 4L,Fluids,Oil,"NGN21,000.00","29,930.75",SUP0020,165,38,NGN
+BAT-70AH-001,Battery 70Ah maintenance free,Electrical,Battery,"NGN78,000.00",105751.34,SUP0024,139,,NGN
+BAT100AH001,Battery 100Ah heavy duty,Electrical,Battery,"112,000.00","149,121.16",SUP0017,123,21,NGN
+ ALT-TOY-001 ,Alternator - Toyota Corolla,Electrical,Alternator,"145,000.00","183,807.03",SUP0025,31,21,USD
+ SPK-PLG-4PK ,Spark plug set of 4 iridium,Engine,Ignition,24000.00,"NGN31,073.99",SUP0018,7,N/A,NGN
+ SHK-ABS-FRT ,Shock absorber front pair,Suspension,Shocks,"NGN96,000.00","121,606.23",SUP0002,89,N/A,NGN
+SHK-ABS-RR,Shock absorber rear pair,Suspension,Shocks,"88,000.00",NGN 137460.09,SUP0020,37,20,NGN
+ TYR-195-65-15 ,Tyre 195/65 R15,Tyres,Tyre,62000.00,"81,948.14",SUP0014,169,,NGN
+TYR-225-60-17,Tyre 225/60 R17,Tyres,Tyre,NGN 94000.00,NGN 150293.47,SUP0008,49,,NGN
+ACGASR134A,AC refrigerant R134a 1kg,Climate,Refrigerant,"NGN15,500.00","NGN19,521.72",SUP0013,82,22,NGN
+wpr-bld-pr,Wiper blade pair,Body,Wipers,NGN 9800.00,"14,913.71",SUP0001,27,21,NGN
+CLT-KIT-001,Clutch kit - Toyota,Transmission,Clutch,178000.00,"264,975.87",SUP0024,78,N/A,NGN
+ RAD-TOY-001 ,Radiator - Toyota Corolla,Cooling,Radiator,"NGN86,000.00",NGN 116262.45,SUP0001,131,N/A,NGN
+blt-tim-001,Timing belt kit,Engine,Belts,NGN 54000.00,"69,011.43",SUP0020,78,N/A,NGN
+sns-o2-001,Oxygen sensor,Engine,Sensors,NGN 42000.00,"57,979.87",SUP0018,30,,USD

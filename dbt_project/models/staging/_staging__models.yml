@@ -1,0 +1,192 @@
+version: 2
+
+sources:
+  - name: dms
+    description: Workshop Dealer Management System — the operational system of record for repair jobs.
+    schema: bronze_dms
+    loaded_at_field: _ingested_at
+    freshness:
+      warn_after: {count: 2, period: hour}
+      error_after: {count: 6, period: hour}
+    tables:
+      - name: work_orders
+        description: Raw CDC stream of work order changes. One row per change event.
+      - name: work_order_lines
+        description: Raw parts/labour/sublet/fee line items per work order. No unique line ID at source.
+      - name: technicians
+        description: Technician master data.
+
+  - name: erp
+    description: Parts and inventory ERP.
+    schema: bronze_erp
+    loaded_at_field: _ingested_at
+    freshness:
+      warn_after: {count: 3, period: hour}
+      error_after: {count: 8, period: hour}
+    tables:
+      - name: parts
+        description: Parts master data, including cost and list price.
+      - name: stock_movements
+        description: Receipts, issues, returns and adjustments against part stock.
+      - name: suppliers
+        description: Supplier master data.
+
+  - name: crm
+    description: Customer relationship management system.
+    schema: bronze_crm
+    loaded_at_field: _ingested_at
+    tables:
+      - name: customers
+      - name: vehicles
+
+  - name: pos
+    description: Point of sale and invoicing.
+    schema: bronze_pos
+    loaded_at_field: _ingested_at
+    tables:
+      - name: invoices
+      - name: payments
+
+  - name: telematics
+    description: Vehicle telematics event stream.
+    schema: bronze_telematics
+    loaded_at_field: _ingested_at
+    tables:
+      - name: events
+
+
+models:
+  - name: stg_dms__work_orders
+    description: >
+      Cleaned work orders, one row per work order at current state.
+      CDC events deduplicated. Dates parsed to UTC. Status vocabulary unified.
+      Invalid VINs nulled and flagged rather than dropped.
+    columns:
+      - name: wo_number
+        description: Work order number, normalised to WO-NNNNNN format.
+        tests:
+          - unique
+          - not_null
+
+      - name: customer_id
+        description: Customer identifier as recorded on the job. Resolved to a golden ID downstream.
+        tests:
+          - not_null
+
+      - name: vehicle_vin
+        description: 17-character VIN. NULL where the source value failed validation.
+
+      - name: opened_at
+        description: Timestamp the job was opened, in UTC.
+        tests:
+          - not_null
+
+      - name: closed_at
+        description: Timestamp the job was closed, in UTC. NULL while the job is still open.
+
+      - name: status
+        description: >
+          Unified job status. Source numeric codes and free text are mapped to
+          one vocabulary here.
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['open', 'in_progress', 'awaiting_parts', 'completed', 'cancelled', 'unknown']
+
+      - name: labour_hours
+        description: Labour hours booked to the job. Values above 24 are flagged as anomalies.
+
+      - name: odometer_km
+        description: Odometer reading in kilometres. NULL where the source value was out of range.
+
+      - name: is_warranty
+        description: Whether the job is covered under warranty.
+
+      - name: is_deleted
+        description: Soft delete flag derived from CDC delete events. Rows are never hard deleted.
+
+    tests:
+      # Compared at date, not timestamp, granularity: source records land in
+      # three date formats and one of them (DD/MM/YYYY) carries no time
+      # component, parsing to midnight. A job opened and closed within the
+      # same day can therefore have a closed_at *time* earlier than
+      # opened_at's even though it never actually closed before it opened --
+      # confirmed by checking that zero violations span different calendar
+      # days once this precision loss is accounted for.
+      - dbt_utils.expression_is_true:
+          expression: "closed_at is null or closed_at::date >= opened_at::date"
+          name: closed_at_not_before_opened_at
+
+      # Labour hours above 24 are a deliberately injected anomaly (see
+      # data_generator/generate_all.py) meant to be flagged, not rejected --
+      # consistent with this model's "never silently drop" rule for VINs and
+      # odometer readings. This tests that the flag agrees with the data,
+      # not that anomalies don't exist.
+      - dbt_utils.expression_is_true:
+          expression: "has_labour_hours_anomaly = (labour_hours > 24)"
+          name: labour_hours_anomaly_flag_is_consistent
+
+  - name: stg_dms__work_order_lines
+    description: >
+      Cleaned work order line items — one row per part, labour, sublet or fee
+      line. line_total is NOT recomputed here (that requires the date-effective
+      VAT rate, a cross-source lookup, which silver does not do) — it is
+      recalculated in the gold layer where sources are joined.
+    columns:
+      - name: line_id
+        description: Composite key — wo_number || '-' || line_no, since the source has no unique line ID.
+        tests:
+          - unique
+          - not_null
+
+      - name: wo_number
+        description: Parent work order number.
+        tests:
+          - not_null
+
+      - name: line_type
+        description: Normalised to part, labour, sublet or fee.
+        tests:
+          - accepted_values:
+              values: ['part', 'labour', 'sublet', 'fee']
+
+      - name: part_number
+        description: Cleaned part number. NULL for labour lines.
+
+      - name: quantity
+        description: Units for a part line, hours for a labour line.
+
+      - name: unit_price_ngn
+        description: Price charged to the customer, cleaned. NULL and flagged where the source value was negative.
+
+      - name: discount_pct
+        description: Discount as a fraction between 0 and 1. Source mixes '10' and '0.10' for the same value — both normalised here.
+
+      - name: has_negative_quantity_anomaly
+        description: True where quantity was negative on a non-return line — flagged rather than dropped.
+
+    tests:
+      - dbt_utils.expression_is_true:
+          expression: "discount_pct is null or discount_pct between 0 and 1"
+          name: discount_pct_is_a_fraction
+
+  - name: stg_dms__technicians
+    description: Cleaned technician master data, including the date-effective hourly rate used for job costing.
+    columns:
+      - name: technician_id
+        tests:
+          - unique
+          - not_null
+      - name: hourly_rate_ngn
+        description: Cleaned hourly rate. Used to cost labour lines in the gold layer.
+      - name: is_active
+
+  - name: stg_erp__parts
+    description: Cleaned parts master data, including unit cost used for parts margin in the gold layer.
+    columns:
+      - name: part_number
+        tests:
+          - unique
+          - not_null
+      - name: unit_cost_ngn
+        description: Cleaned cost price. Used to cost part lines in the gold layer — never the price charged to the customer.

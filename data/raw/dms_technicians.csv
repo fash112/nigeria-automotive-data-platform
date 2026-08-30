@@ -1,0 +1,19 @@
+technician_id,technician_name,skill_level,specialisation,hire_date,hourly_rate_ngn,is_active
+TECH001,Timothy Walls,apprentice,ENGINE,1414393405000,2500.00,N
+TECH002,Zachary Ferrell,master,engine,1448723755000,"NGN3,500.00",N
+TECH003,Katie Anderson,senior,ENGINE,07/08/2020,NGN 9000.00,Y
+TECH004,Sherry Wood,senior,general,1494078294000,"3,500.00",N
+TECH005,Joshua Turner,SENIOR,engine;transmission,15/10/2025,NGN 7500.00,Y
+TECH006,Mary Spencer,APPRENTICE,ENGINE,2025-12-12 15:31:51,5000.00,1
+TECH007,Shawn Baker,senior,ENGINE,1466853108000,3500.00,Y
+TECH008,Brittney Campbell,SENIOR,engine;transmission,2018-03-31 07:12:20,3500.00,Y
+TECH009,Christina Walters,master,brakes;suspension,2019-02-25 19:58:03,"NGN9,000.00",Y
+TECH010,Danielle Odonnell,SENIOR,electrical,2015-07-12 03:30:56,"NGN9,000.00",1
+TECH011,Jeff Hill,senior,electrical,2014-09-21 12:36:24,NGN 7500.00,Y
+TECH012,Carlos Whitney,apprentice,engine,1496137270000,"7,500.00",N
+TECH013,Kristen Patterson,Junior,electrical,1414583587000,2500.00,Y
+TECH014,Tony Vazquez,Junior,engine;transmission,13/03/2017,"NGN2,500.00",Y
+TECH015,Sandra Aguilar,APPRENTICE,bodywork,07/03/2017,NGN 3500.00,Y
+TECH016,Andrew Diaz,junior,electrical,2015-05-05 09:23:23,NGN 2500.00,1
+TECH017,Christine Wright,apprentice,engine,1464575511000,9000.00,Y
+TECH018,Justin Baxter,master,general,2025-03-22 03:35:16,NGN 3500.00,N

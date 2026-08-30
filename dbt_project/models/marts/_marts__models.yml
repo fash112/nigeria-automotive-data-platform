@@ -1,0 +1,75 @@
+version: 2
+
+models:
+  - name: fct_work_orders
+    description: >
+      One row per work order, enriched with revenue, cost and gross profit.
+      Revenue and cost are VAT-exclusive. VAT is recalculated from the
+      date-effective rate in seeds/vat_rates.csv, not trusted from source.
+    columns:
+      - name: wo_number
+        tests:
+          - unique
+          - not_null
+
+      - name: revenue_ngn
+        description: Sum of line subtotals (quantity x price x (1 - discount)), excluding VAT.
+        tests:
+          - not_null
+
+      - name: cost_ngn
+        description: >
+          Parts costed from stg_erp__parts.unit_cost_ngn, labour costed from
+          the assigned technician's hourly_rate_ngn x hours. Sublet and fee
+          lines have no cost basis in this dataset and cost 0 for those lines.
+        tests:
+          - not_null
+
+      - name: gross_profit_ngn
+        description: revenue_ngn - cost_ngn.
+
+      - name: has_line_total_mismatch
+        description: >
+          True if any line's recalculated total differs from the source's
+          own line_total_ngn by more than NGN 1.
+
+      - name: has_part_line_total_mismatch
+        description: >
+          Same check, scoped to part lines only -- the source is known to be
+          wrong on ~3% of these. This is the reliable corruption signal;
+          see has_labour_line_total_mismatch for why labour is separate.
+
+      - name: has_labour_line_total_mismatch
+        description: >
+          Same check, scoped to labour lines. Higher and noisier than the
+          part-line rate by design: the source sometimes displays a rounded
+          quantity (hours) while the total was computed from the unrounded
+          value, so recalculating from the displayed quantity can't always
+          reproduce the total exactly. A source precision limit, not
+          corruption -- excluded from the corruption-rate test for that
+          reason.
+
+    tests:
+      - dbt_utils.expression_is_true:
+          expression: "revenue_ngn >= 0"
+          name: fct_work_orders_revenue_not_negative
+
+  - name: mart_service_profitability
+    description: >
+      Gross profit by service type and month. Answers "which service types
+      generate the most gross profit after parts and labour cost?"
+    columns:
+      - name: service_type_code
+        tests:
+          - not_null
+
+      - name: month
+        tests:
+          - not_null
+
+      - name: job_count
+        tests:
+          - not_null
+
+      - name: margin_pct
+        description: gross_profit_ngn / revenue_ngn. NULL where revenue is 0.
